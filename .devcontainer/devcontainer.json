@@ -14,9 +14,16 @@
 			},
 			
 			// Add the IDs of extensions you want installed when the container is created.
-			"extensions": [
-				"ms-vscode.powershell"
-			]
+            "extensions": [
+                "ms-vscode.powershell",
+                "2gua.rainbow-brackets",
+                "oderwat.indent-rainbow",
+                "usernamehw.errorlens",
+                "eamodio.gitlens",
+                "TylerLeonhardt.vscode-inline-values-powershell",
+                "cschleiden.vscode-github-actions",
+				"me-dutour-mathieu.vscode-github-actions"
+            ]
 		}
 	},
 

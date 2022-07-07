@@ -1,0 +1,15 @@
+name: Issue Forms Body Parser
+
+on: 
+ issues:
+   types:
+     - "opened"
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Issue Forms Body Parser
+        id: parse
+        uses: zentered/issue-forms-body-parser@v1.4.3
+      - run: echo "${{ JSON.stringify(steps.parse.outputs.data) }}"

@@ -1,0 +1,51 @@
+name: Add Speaker
+description: Add New Speaker information
+body:
+  - type: markdown
+    attributes:
+      value: |
+       Please follow the instructions to create a new speaker entry.
+       We wil display this on callfordataspeakers.com
+
+  - type: input
+    id: name
+    attributes:
+      label: Your full name
+      description: "What is your full name"
+      placeholder: "Rob Sewell"
+    validations:
+      required: true  
+  - type: input
+    id: topics
+    attributes:
+      label: topics
+      description: "Please provide a list of topics seperated by commas that you provide Training Days / Pre-Cons on"
+      placeholder: "Database administration, Cloud infrastructure, Performance Tuning, Azure"
+    validations:
+      required: true
+  - type: dropdown
+    id: regions
+    attributes:
+      label: regions
+      description: Which regions are you available to present?
+      options:
+        - Virtual
+        - Europe
+        - Middle East
+        - Africa
+        - South Asia
+        - South East Asia
+        - East Asia
+        - Oceania
+        - North America
+        - South America
+    validations:
+      required: true
+  - type: input
+    id: sessionize
+    attributes:
+      label: Sessionize
+      description: Please provide your SSessionize profile URL. It is important that this has all the required contact information on it.
+      placeholder: https://sessionize.com/rob-sewell
+    validations:
+      required: true
