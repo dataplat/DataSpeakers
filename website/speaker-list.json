@@ -1,0 +1,7 @@
+[
+    {   "name": "Firstname Lastname 1",
+        "topics": ["Database development", "Database administration", "Cloud infrastructure"],
+        "regions": ["Europe", "South-east Asia", "Australia"],
+        "contact": "Sessionize URL"
+    }
+]
