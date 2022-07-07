@@ -11,5 +11,5 @@ jobs:
     steps:
       - name: Issue Forms Body Parser
         id: parse
-        uses: zentered/issue-forms-body-parser@v1.4.3
+        uses: zentered/issue-forms-body-parser@v1.4.4
       - run: echo "${{ JSON.stringify(steps.parse.outputs.data) }}"

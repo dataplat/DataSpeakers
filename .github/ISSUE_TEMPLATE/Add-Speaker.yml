@@ -39,6 +39,7 @@ body:
         - Oceania
         - North America
         - South America
+      multiple: true
     validations:
       required: true
   - type: input
