@@ -1,0 +1,28 @@
+name: websiteFile
+
+on: 
+ workflow_call:
+ workflow_dispatch:
+
+jobs:
+  websiteFile:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Create New speaker-list.json
+      run: |
+        $speakerFiles = Get-ChildItem ./speakers/*.json
+
+        $speakers = foreach($speakerFile in $speakerFiles){
+            Get-Content $speakerFile.FullName -Raw | ConvertFrom-Json
+        } 
+        $speakers | ConvertTo-Json | Out-File ./website/speaker-list.json
+      shell: pwsh  
+
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v8.0.2
+      with:
+        author_name: Beardy McBeardFace
+        author_email: mrrobsewell@outlook.com
+        message: 'The Beard says update the speaker-list.json. We have another speaker - This is an automated message'
+    
