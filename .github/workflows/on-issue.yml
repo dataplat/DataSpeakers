@@ -55,9 +55,11 @@ jobs:
         message: 'The Beard says hooray we have another speaker - This is an automated message'
   
   createSpeakerListJson:
+    needs: addNewSpeaker
     uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
 
   closeIssue:
+     needs: [addNewSpeaker,createSpeakerListJson]
      runs-on: ubuntu-latest
      steps:
      - name: Close Issue
