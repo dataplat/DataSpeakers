@@ -1,15 +1,15 @@
 ### fullname
 
-Richard Hammond
+Jeremy Clarkson
 
 ### topics
 
-crashing, being small, grinning a lot
+SPEED, shouting, ra ra ra
 
 ### regions
 
-Virtual, Europe
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America
 
 ### Sessionize
 
-richard is ssmall
+jermy
