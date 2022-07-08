@@ -9,6 +9,11 @@ jobs:
   addNewSpeaker:
     runs-on: ubuntu-latest
     steps:
+    - name: heart the issue
+      uses: peter-evans/create-or-update-comment@v2
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        reactions: heart
     - uses: actions/checkout@v2
     - name: Get Speaker Information to file
       run: |
@@ -16,12 +21,27 @@ jobs:
         gci -recurse
         $IssueBody =  "${{ github.event.issue.body }}"
         Write-Host $IssueBody 
-        # $IssueBody | Out-File speakers/test.txt
-      shell: pwsh   
-
+        $IssueBody | Out-File speakers/test.txt
+      shell: pwsh  
+    - name: Add comment to the issue
+      uses: peter-evans/create-or-update-comment@v2
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        body: |
+          Thank you so much for your Speaker submission.
+          It will be active on callfordataspeakers.com shortly
+          Rob and Daniel
+          @SqlDbaWithABeard
     - name: Add & Commit
       uses: EndBug/add-and-commit@v8.0.2
       with:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
         message: 'The Beard says we have another speaker - This is an automated message'
+    
+    - name: Close Issue
+      uses: peter-evans/close-issue@v2
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        comment: |
+          Closing this issue now that the Action has run successfully
