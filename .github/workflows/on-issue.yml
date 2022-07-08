@@ -1,4 +1,4 @@
-name: Issue Forms Body Parser
+name: Add a new speaker json
 
 on: 
  issues:

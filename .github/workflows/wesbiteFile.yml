@@ -1,4 +1,4 @@
-name: websiteFile
+name: Create the speaker-list json file 
 
 on: 
  workflow_call:
