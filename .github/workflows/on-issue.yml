@@ -15,7 +15,7 @@ jobs:
         Write-Host "What do we have?"
         $IssueBody =  "${{ github.event.issue.body }}"
         Write-Host $IssueBody 
-        $IssueBody | Out-File /speakers/test.txt
+        $IssueBody | Out-File speakers/test.txt
       shell: pwsh   
 
     - name: Add & Commit
