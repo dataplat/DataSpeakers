@@ -6,16 +6,17 @@ on:
      - "opened"
 
 jobs:
-  process:
+  addNewSpeaker:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Get Speaker Information to file
       run: |
         Write-Host "What do we have?"
+        gci -recurse
         $IssueBody =  "${{ github.event.issue.body }}"
         Write-Host $IssueBody 
-        $IssueBody | Out-File speakers/test.txt
+        # $IssueBody | Out-File speakers/test.txt
       shell: pwsh   
 
     - name: Add & Commit
