@@ -13,7 +13,7 @@ jobs:
     - name: Get Repos
       run: |
         Write-Host "What do we have?"
-        $IssueBody =  ${{ github.event.issue.body }}
+        $IssueBody =  "${{ github.event.issue.body }}"
         Write-Host $IssueBody 
       shell: pwsh   
 # You also can print the whole github context to the logs to view more details.
