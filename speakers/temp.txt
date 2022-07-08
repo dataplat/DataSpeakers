@@ -1,6 +1,6 @@
 ### fullname
 
-Rob Sewell
+Rob Sewell1
 
 ### topics
 
@@ -8,8 +8,8 @@ dbachecks,dbatools,dev containers
 
 ### regions
 
-Virtual, Europe, Middle East, South East Asia
+Virtual, Europe, South Asia
 
 ### Sessionize
 
-https://sessionsize.com/rob-sewell
+https://sessionize.com/rob-sewell
