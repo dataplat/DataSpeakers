@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Get Repos
+    - name: Get Speaker Information to file
       run: |
         Write-Host "What do we have?"
         $IssueBody =  "${{ github.event.issue.body }}"
         Write-Host $IssueBody 
+        $IssueBody | Out-File /speakers/test.txt
       shell: pwsh   
-# You also can print the whole github context to the logs to view more details.
-    - name: View the github context
-      run: Write-Host "$GITHUB_CONTEXT"
-      env:
-        GITHUB_CONTEXT: ${{ toJson(github) }}
-      shell: pwsh 
+
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v8.0.2
+      with:
+        author_name: Beardy McBeardFace
+        author_email: mrrobsewell@outlook.com
+        message: 'The Beard says we have another speaker - This is an automated message'
