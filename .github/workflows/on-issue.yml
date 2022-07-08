@@ -9,11 +9,6 @@ jobs:
   addNewSpeaker:
     runs-on: ubuntu-latest
     steps:
-    - name: heart the issue
-      uses: peter-evans/create-or-update-comment@v2
-      with:
-        issue-number: ${{ github.event.issue.number }}
-        reactions: heart
     - uses: actions/checkout@v2
     - name: Get Speaker Information to file
       run: |
