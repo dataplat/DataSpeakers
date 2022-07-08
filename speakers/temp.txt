@@ -1,10 +1,10 @@
 ### fullname
 
-Jeremy Clarkson
+Captain Slow
 
 ### topics
 
-SPEED, shouting, ra ra ra
+getting lost, shouting at Jeremy, droning on and on and on
 
 ### regions
 
@@ -12,4 +12,4 @@ Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oc
 
 ### Sessionize
 
-jermy
+oh chicken
