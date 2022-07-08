@@ -1,15 +1,15 @@
 ### fullname
 
-Rob Sewell1
+Jess Pomfret
 
 ### topics
 
-dbachecks,dbatools,dev containers
+dbatools, dbachecks, dev containers, automating database administration
 
 ### regions
 
-Virtual, Europe, South Asia
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/rob-sewell
+https://sessionize.com/jpomfret/
