@@ -43,8 +43,10 @@ When an issue is created the on-issue GitHub Action is automatically triggered. 
 
 - says thank you on the issue
 - saves the issue form results to a file temporarily
-- parses the file and creates a speaker json file and saves it
-- runs the websiteFile workflow
-    - This takes all the json files and creates a speaker-list.json which feeds the web-site
-- commits all the changes and pushes them
+- parses the temporary file and creates a speaker json file and saves it
+- adds a comment to the issue and commits the change to the repo
+- runs the websiteFile workflow which 
+    - takes all the speaker json files and creates a new speaker-list.json which feeds the web-site
+    - comments on the issue
+    - commits all the changes and pushes them
 - closes the issue
