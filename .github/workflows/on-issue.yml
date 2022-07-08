@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        ref: main
     - name: Get Speaker Information to file
       run: |
         Write-Host "What do we have?"
@@ -46,9 +49,10 @@ jobs:
     - name: Add & Commit
       uses: EndBug/add-and-commit@v8.0.2
       with:
+        pull: true
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
-        message: 'The Beard says we have another speaker - This is an automated message'
+        message: 'The Beard says hooray we have another speaker - This is an automated message'
   
   createSpeakerListJson:
     uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
