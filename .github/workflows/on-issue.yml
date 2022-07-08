@@ -26,7 +26,7 @@ jobs:
             name =  $regexResult[0].Groups['fullname'].Value
             topics = $regexResult[0].Groups['topics'].Value
             regions = $regexResult[0].Groups['regions'].Value
-            Sessionize = $regexResult[0].Groups['Sessionize'].Value
+            sessionize = $regexResult[0].Groups['Sessionize'].Value
         }
         #save it to a file
         $speakerFileName = $SpeakerObject.name -replace ' ', '-' -replace '''','-'
