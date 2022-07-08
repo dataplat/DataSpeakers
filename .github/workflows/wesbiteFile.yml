@@ -8,7 +8,11 @@ jobs:
   websiteFile:
     runs-on: ubuntu-latest
     steps:
+    # this should pick up the changes pushed in previous job
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        ref: main
     - name: Create New speaker-list.json
       run: |
         $speakerFiles = Get-ChildItem ./speakers/*.json
