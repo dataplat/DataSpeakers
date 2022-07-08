@@ -49,11 +49,16 @@ jobs:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
         message: 'The Beard says we have another speaker - This is an automated message'
-    - name: update speaker json
-      uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
-    - name: Close Issue
-      uses: peter-evans/close-issue@v2
-      with:
-        issue-number: ${{ github.event.issue.number }}
-        comment: |
-          Closing this issue now that the Action has run successfully
+  
+  createSpeakerListJson:
+    uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
+
+  closeIssue:
+     runs-on: ubuntu-latest
+     steps:
+     - name: Close Issue
+       uses: peter-evans/close-issue@v2
+       with:
+         issue-number: ${{ github.event.issue.number }}
+         comment: |
+           Closing this issue now that the Action has run successfully
