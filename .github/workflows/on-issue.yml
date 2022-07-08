@@ -9,7 +9,16 @@ jobs:
   process:
     runs-on: ubuntu-latest
     steps:
-      - name: Issue Forms Body Parser
-        id: parse
-        uses: zentered/issue-forms-body-parser@v1.4.4
-      - run: echo "${{ JSON.stringify(steps.parse.outputs.data) }}"
+    - uses: actions/checkout@v2
+    - name: Get Repos
+      run: |
+        Write-Host "What do we have?"
+        $IssueBody =  ${{ github.event.issue.body }}
+        Write-Host $IssueBody 
+      shell: pwsh   
+# You also can print the whole github context to the logs to view more details.
+    - name: View the github context
+      run: Write-Host "$GITHUB_CONTEXT"
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      shell: pwsh 
