@@ -4,12 +4,12 @@ Rob Sewell
 
 ### topics
 
-dbachecks, dbatools, dev containers
+dbachecks,dbatools,dev containers
 
 ### regions
 
-Virtual, Europe, Africa, North America
+Virtual, Europe, Middle East, South East Asia
 
 ### Sessionize
 
-https://sessionize.com/rob-sewell
+https://sessionsize.com/rob-sewell
