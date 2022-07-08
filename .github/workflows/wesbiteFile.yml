@@ -30,4 +30,10 @@ jobs:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
         message: 'The Beard says we updated the speaker-list.json. We have another speaker - This is an automated message'
+    - name: Add another comment to the issue
+      uses: peter-evans/create-or-update-comment@v2
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        body: |
+          The speaker-list.json file has been recreated ready for the website https://github.com/dataplat/DataSpeakers/blob/main/website/speaker-list.json
     
