@@ -1,15 +1,15 @@
 ### fullname
 
-Jess Pomfret
+Richard Hammond
 
 ### topics
 
-dbatools, dbachecks, dev containers, automating database administration
+crashing, being small, grinning a lot
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/jpomfret/
+richard is ssmall
