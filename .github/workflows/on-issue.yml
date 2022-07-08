@@ -13,10 +13,26 @@ jobs:
     - name: Get Speaker Information to file
       run: |
         Write-Host "What do we have?"
-        gci -recurse
+        # gci -recurse = this is for troubleshooting because paths are hard
         $IssueBody =  "${{ github.event.issue.body }}"
-        Write-Host $IssueBody 
-        $IssueBody | Out-File speakers/test.txt
+        # Write-Host $IssueBody 
+        $IssueBody | Out-File speakers/temp.txt
+        # get the temp file contents - I do this so I dont lose anything
+        $file = Get-Content ./speakers/temp.txt -Raw
+        # parse the issue
+        $regexResult = [regex]::Matches($file, '(?ms)fullname\n\n(?<fullname>.*)\n\n### topics\n\n(?<topics>.*)\n\n### regions\n\n(?<regions>.*)\n\n### Sessionize\n\n(?<Sessionize>.*)\n')
+        # create an object
+        $speakerObject = [PSCustomObject]@{
+            name =  $regexResult[0].Groups['fullname'].Value
+            topics = $regexResult[0].Groups['topics'].Value
+            regions = $regexResult[0].Groups['regions'].Value
+            Sessionize = $regexResult[0].Groups['Sessionize'].Value
+        }
+        #save it to a file
+        $speakerFileName = $SpeakerObject.name -replace ' ', '-' -replace '''','-'
+        $filePath = './speakers/{0}.json' -f $speakerFileName
+        $SpeakerObject |ConvertTo-Json | Out-FIle -FilePath $filePath
+        $speakerFileName | OUt-File ./speakers/list.txt -Append
       shell: pwsh  
     - name: Add comment to the issue
       uses: peter-evans/create-or-update-comment@v2
