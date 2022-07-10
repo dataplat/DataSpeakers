@@ -1,15 +1,15 @@
 ### fullname
 
-Kevin Chant
+Erik Darling
 
 ### topics
 
-SQL Server, Azure Synapse, DevOps, Azure DevOps
+SQL Server performance tuning
 
 ### regions
 
-Virtual, Europe, North America
+Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/kevin-chant
+https://sessionize.com/erik-darling/
