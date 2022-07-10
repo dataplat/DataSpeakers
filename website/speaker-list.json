@@ -1,27 +1,9 @@
 [
   {
-    "name": "Captain Slow",
-    "topics": "getting lost, shouting at Jeremy, droning on and on and on",
-    "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America",
-    "sessionize": "oh chicken"
-  },
-  {
-    "name": "Jeremy Clarkson",
-    "topics": "SPEED, shouting, ra ra ra",
-    "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America",
-    "sessionize": "jermy"
-  },
-  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
     "sessionize": "https://sessionize.com/jpomfret/"
-  },
-  {
-    "name": "Richard Hammond",
-    "topics": "crashing, being small, grinning a lot",
-    "regions": "Virtual, Europe",
-    "sessionize": "richard is ssmall"
   },
   {
     "name": "Rob Sewell",
