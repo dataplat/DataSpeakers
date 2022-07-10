@@ -1,15 +1,15 @@
 ### fullname
 
-Captain Slow
+Kevin Chant
 
 ### topics
 
-getting lost, shouting at Jeremy, droning on and on and on
+SQL Server, Azure Synapse, DevOps, Azure DevOps
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America
+Virtual, Europe, North America
 
 ### Sessionize
 
-oh chicken
+https://sessionize.com/kevin-chant
