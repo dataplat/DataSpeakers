@@ -6,6 +6,12 @@
     "sessionize": "https://sessionize.com/jpomfret/"
   },
   {
+    "name": "Kevin Chant",
+    "topics": "SQL Server, Azure Synapse, DevOps, Azure DevOps",
+    "regions": "Virtual, Europe, North America",
+    "sessionize": "https://sessionize.com/kevin-chant"
+  },
+  {
     "name": "Rob Sewell",
     "topics": "dbachecks,dbatools,dev containers",
     "regions": "Virtual, Europe, Middle East, South East Asia",
