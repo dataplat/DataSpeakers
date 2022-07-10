@@ -1,5 +1,11 @@
 [
   {
+    "name": "Erik Darling",
+    "topics": "SQL Server performance tuning",
+    "regions": "Europe, North America",
+    "sessionize": "https://sessionize.com/erik-darling/"
+  },
+  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
