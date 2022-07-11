@@ -50,3 +50,12 @@ body:
       placeholder: https://sessionize.com/rob-sewell
     validations:
       required: true
+  - type: input
+    id: language
+    attributes:
+      label: language
+      description: Please provide the languages that you can present your sessions in.
+      placeholder: English, German
+      value: English
+    validations:
+      required: true
