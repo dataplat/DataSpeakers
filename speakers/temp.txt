@@ -1,15 +1,15 @@
 ### fullname
 
-Erik Darling
+Randolph West
 
 ### topics
 
-SQL Server performance tuning
+Database i nternals, Linux
 
 ### regions
 
-Europe, North America
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/erik-darling/
+https://sessionize.com/bornsql/
