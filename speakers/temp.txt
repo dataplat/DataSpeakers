@@ -1,18 +1,18 @@
 ### fullname
 
-Steve Jones
+Hasan Savran
 
 ### topics
 
-datatabase administration, devops
+Azure Cosmos DB
 
 ### regions
 
-North America
+Virtual, Europe, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/steve-jones/
+https://sessionize.com/hasan-savran/
 
 ### language
 
