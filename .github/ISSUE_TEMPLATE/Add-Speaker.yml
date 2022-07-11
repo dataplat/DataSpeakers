@@ -54,7 +54,7 @@ body:
     id: language
     attributes:
       label: language
-      description: Please provide the languages that you can present your sessions in.
+      description: Please provide the languages that you can present your sessions in seperated by commas if you are multi-lingual.
       placeholder: English, German
       value: English
     validations:
