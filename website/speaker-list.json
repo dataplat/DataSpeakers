@@ -1,5 +1,26 @@
 [
   {
+    "name": "Alexander Arvidsson",
+    "topics": "data visualization, presentation skills, data storytelling",
+    "regions": "Europe, East Asia, Oceania, North America",
+    "sessionize": "https://sessionize.com/alexanderarvidsson/",
+    "language": "English"
+  },
+  {
+    "name": "Ásgeir Gunnarsson",
+    "topics": "Power BI Administration and Governance, Next Step Power BI Tabular Model Development",
+    "regions": "Europe, Middle East, South East Asia, East Asia, Oceania, North America",
+    "sessionize": "https://sessionize.com/asgeirgunnarsson",
+    "language": "English"
+  },
+  {
+    "name": "Ben Weissman",
+    "topics": "ETL, SSIS, SSAS, Hybrid Architecture, Containers, Kubernetes, Arc, Big Data Clusters, Azure Data Architecture, SQL on Linux",
+    "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
+    "sessionize": "https://sessionize.com/benweissman/",
+    "language": "English, German"
+  },
+  {
     "name": "Erik Darling",
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
@@ -19,6 +40,13 @@
     "regions": "Virtual, Europe, North America",
     "sessionize": "https://sessionize.com/kevin-chant",
     "language": "English"
+  },
+  {
+    "name": "Mikey Bronowski",
+    "topics": "database administration, dbatools, dbachecks, powershell",
+    "regions": "Virtual, Europe, North America",
+    "sessionize": "https://sessionize.com/mikeybronowski",
+    "language": "English, Polish"
   },
   {
     "name": "Randolph West",

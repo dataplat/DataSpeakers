@@ -1,10 +1,10 @@
 ### fullname
 
-Rob Sewell
+Ben Weissman
 
 ### topics
 
-dbachecks, dbatools, PowerShell, Dev Containers, Automation, DevOps, Bicep, Azure
+ETL, SSIS, SSAS, Hybrid Architecture, Containers, Kubernetes, Arc, Big Data Clusters, Azure Data Architecture, SQL on Linux
 
 ### regions
 
@@ -12,8 +12,8 @@ Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oc
 
 ### Sessionize
 
-https://sessionize.com/rob-sewell
+https://sessionize.com/benweissman/
 
 ### language
 
-English
+English, German
