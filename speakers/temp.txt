@@ -1,19 +1,19 @@
 ### fullname
 
-Ben Weissman
+Steve Jones
 
 ### topics
 
-ETL, SSIS, SSAS, Hybrid Architecture, Containers, Kubernetes, Arc, Big Data Clusters, Azure Data Architecture, SQL on Linux
+datatabase administration, devops
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+North America
 
 ### Sessionize
 
-https://sessionize.com/benweissman/
+https://sessionize.com/steve-jones/
 
 ### language
 
-English, German
+English
