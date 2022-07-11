@@ -18,6 +18,12 @@
     "sessionize": "https://sessionize.com/kevin-chant"
   },
   {
+    "name": "Randolph West",
+    "topics": "Database i nternals, Linux",
+    "regions": "Virtual, North America",
+    "sessionize": "https://sessionize.com/bornsql/"
+  },
+  {
     "name": "Rob Sewell",
     "topics": "dbachecks,dbatools,dev containers",
     "regions": "Virtual, Europe, Middle East, South East Asia",
