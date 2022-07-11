@@ -1,15 +1,19 @@
 ### fullname
 
-Randolph West
+Rob Sewell
 
 ### topics
 
-Database i nternals, Linux
+dbachecks, dbatools, PowerShell, Dev Containers, Automation, DevOps, Bicep, Azure
 
 ### regions
 
-Virtual, North America
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/bornsql/
+https://sessionize.com/rob-sewell
+
+### language
+
+English
