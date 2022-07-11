@@ -42,7 +42,7 @@ jobs:
             language = $regexResult[0].Groups['language'].Value
         }
         #save it to a file
-        $speakerFileName = $SpeakerObject.name -replace ' ', '-' -replace '''','-'
+        $speakerFileName = $SpeakerObject.name -replace ' ', '-' -replace '''','-' -replace '/','-' -replace '\\','-' -replace ':','-' -replace '\*','-' -replace '\?','-' -replace '"','-' -replace '\|','-'
         $filePath = './speakers/{0}.json' -f $speakerFileName
         $SpeakerObject |ConvertTo-Json | Out-FIle -FilePath $filePath
         $speakerFileName | OUt-File ./speakers/list.txt -Append
