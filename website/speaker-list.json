@@ -42,6 +42,13 @@
     "language": "English"
   },
   {
+    "name": "John Q. Martin",
+    "topics": "Azure Data Platform, SQL Server, Azure Architecture, AWS Data Platform, AWS Architecture, Security, Terraform, Infrastructure as Code, DevOps, Hybrid Architecture, Amazon Redshift, Cloud Analytics, Performance Tuning",
+    "regions": "Virtual, Europe, Oceania, North America",
+    "sessionize": "https://sessionize.com/johnq",
+    "language": "English"
+  },
+  {
     "name": "Kevin Chant",
     "topics": "SQL Server, Azure Synapse, DevOps, Azure DevOps",
     "regions": "Virtual, Europe, North America",
