@@ -1,18 +1,18 @@
 ### fullname
 
-Monica Rathbun
+John Q. Martin
 
 ### topics
 
-Performance Tuning and Optimization
+Azure Data Platform, SQL Server, Azure Architecture, AWS Data Platform, AWS Architecture, Security, Terraform, Infrastructure as Code, DevOps, Hybrid Architecture, Amazon Redshift, Cloud Analytics, Performance Tuning
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, Europe, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/monica-rathbun/
+https://sessionize.com/johnq
 
 ### language
 
