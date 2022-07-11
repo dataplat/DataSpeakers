@@ -96,5 +96,12 @@
     "regions": "North America",
     "sessionize": "https://sessionize.com/steve-jones/",
     "language": "English"
+  },
+  {
+    "name": "Wolfgang Strasser",
+    "topics": "Data Governance, Azure Synapse, Power BI, Azure Data Factory",
+    "regions": "Virtual, Europe, North America",
+    "sessionize": "https://sessionize.com/wolfgang-strasser",
+    "language": "English,German"
   }
 ]
