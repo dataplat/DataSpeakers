@@ -56,6 +56,13 @@
     "language": "English, Polish"
   },
   {
+    "name": "Monica Rathbun",
+    "topics": "Performance Tuning and Optimization",
+    "regions": "Virtual, Europe, North America",
+    "sessionize": "https://sessionize.com/monica-rathbun/",
+    "language": "English"
+  },
+  {
     "name": "Randolph West",
     "topics": "Database internals, Linux",
     "regions": "Virtual, North America",
