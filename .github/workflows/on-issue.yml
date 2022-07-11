@@ -18,8 +18,10 @@ jobs:
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
+          Hi ${{ github.event.issue.user.login }},
           Thank you so much for your Speaker submission.
-          The Action should be running now and adding it
+          The Action should be running now and adding it to the webpage. It should should update here.
+          If it doesnt - get in touch with Rob on Twittter https://twitter.com/sqldbawithbeard
     - name: Get Speaker Information to file
       run: |
         Write-Host "What do we have?"
@@ -30,13 +32,14 @@ jobs:
         # get the temp file contents - I do this so I dont lose anything
         $file = Get-Content ./speakers/temp.txt -Raw
         # parse the issue
-        $regexResult = [regex]::Matches($file, '(?ms)fullname\n\n(?<fullname>.*)\n\n### topics\n\n(?<topics>.*)\n\n### regions\n\n(?<regions>.*)\n\n### Sessionize\n\n(?<Sessionize>.*)\n')
+        $regexResult = [regex]::Matches($file, '(?ms)fullname\n\n(?<fullname>.*)\n\n### topics\n\n(?<topics>.*)\n\n### regions\n\n(?<regions>.*)\n\n### Sessionize\n\n(?<Sessionize>.*)\n\n### language\n\n(?<language>.*)\n')
         # create an object
         $speakerObject = [PSCustomObject]@{
             name =  $regexResult[0].Groups['fullname'].Value
             topics = $regexResult[0].Groups['topics'].Value
             regions = $regexResult[0].Groups['regions'].Value
             sessionize = $regexResult[0].Groups['Sessionize'].Value
+            language = $regexResult[0].Groups['language'].Value
         }
         #save it to a file
         $speakerFileName = $SpeakerObject.name -replace ' ', '-' -replace '''','-'
@@ -55,7 +58,7 @@ jobs:
       with:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
-        message: 'The Beard says hooray we have another speaker - This is an automated message'
+        message: 'The Beard says hooray we have another speaker ${{ github.event.issue.user.login }} - This is an automated message'
   
   createSpeakerListJson:
     needs: addNewSpeaker
@@ -70,6 +73,7 @@ jobs:
        with:
          issue-number: ${{ github.event.issue.number }}
          comment: |
+           Hey ${{ github.event.issue.user.login }},
            Closing this issue now that the Action has run successfully.
            Thank you so much for adding your information to the list.
            It will be active on callfordataspeakers.com shortly.
