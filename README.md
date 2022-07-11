@@ -30,6 +30,7 @@ Fill in the details, the title can be anything that you like
     **Just topics** not session titles or descriptions, those will be in your sessionize profile then this does not need updating so frequently
 - regions that you would be willing to present training days or pre-cons in (these match the regions on callfordataspeakers.com)
 - Your sessionize profile URl which will show the event organisers the precise sessions that you have and also your contact details/methods
+- The languages that you can present in seperated by commas.
 
 Thats it, then press Submit new issue and the automation will do its thing
 
@@ -37,7 +38,10 @@ Thats it, then press Submit new issue and the automation will do its thing
 
 ## To remove yourself as a speaker
 
-Remove your speaker name.json file and ask for the website workflow to be run
+Delete your speaker name.json file and ask for the website workflow to be run
+## To edit your speaker information
+
+Either delete your speaker name.json file and then add a new issue or edit your speaker name.json file and ask for the website workflow to be run
 
 # How it works
 
