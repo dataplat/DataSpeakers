@@ -49,6 +49,13 @@
     "language": "English"
   },
   {
+    "name": "Kay Sauter",
+    "topics": "powershell, dbatools, automation, bicep, vm, devops",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/kaysauter",
+    "language": "English, German"
+  },
+  {
     "name": "Kevin Chant",
     "topics": "SQL Server, Azure Synapse, DevOps, Azure DevOps",
     "regions": "Virtual, Europe, North America",
