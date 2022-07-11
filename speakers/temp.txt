@@ -1,18 +1,18 @@
 ### fullname
 
-Hasan Savran
+Monica Rathbun
 
 ### topics
 
-Azure Cosmos DB
+Performance Tuning and Optimization
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/hasan-savran/
+https://sessionize.com/monica-rathbun/
 
 ### language
 
