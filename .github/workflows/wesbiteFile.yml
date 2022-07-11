@@ -22,6 +22,12 @@ jobs:
         } 
         $speakers | ConvertTo-Json | Out-File ./website/speaker-list.json
       shell: pwsh  
+  # You also can print the whole github context to the logs to view more details.
+    - name: View the github context
+      run: Write-Host "$GITHUB_CONTEXT"
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      shell: pwsh 
 
     - name: Add & Commit
       uses: EndBug/add-and-commit@v9
@@ -30,8 +36,10 @@ jobs:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
         message: 'The Beard says we updated the speaker-list.json. We have another speaker - This is an automated message'
+
     - name: Add another comment to the issue
       uses: peter-evans/create-or-update-comment@v2
+      if: github.event.issue.number != null
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
