@@ -44,4 +44,5 @@ jobs:
         issue-number: ${{ github.event.issue.number }}
         body: |
           The speaker-list.json file has been recreated ready for the website https://github.com/dataplat/DataSpeakers/blob/main/website/speaker-list.json
+          https://callfordataspeakers.com/precon should be updated now
     

@@ -18,7 +18,7 @@ jobs:
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
-          Hi ${{ github.event.issue.user.login }},
+          Hi @${{ github.event.issue.user.login }},
           Thank you so much for your Speaker submission.
           The Action should be running now and adding it to the webpage. It should should update here.
           If it doesnt - get in touch with Rob on Twittter https://twitter.com/sqldbawithbeard
@@ -58,7 +58,7 @@ jobs:
       with:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
-        message: 'The Beard says hooray we have another speaker ${{ github.event.issue.user.login }} - This is an automated message'
+        message: 'The Beard says hooray we have another speaker @${{ github.event.issue.user.login }} - This is an automated message'
   
   createSpeakerListJson:
     needs: addNewSpeaker
@@ -73,7 +73,7 @@ jobs:
        with:
          issue-number: ${{ github.event.issue.number }}
          comment: |
-           Hey ${{ github.event.issue.user.login }},
+           Hey @${{ github.event.issue.user.login }},
            Closing this issue now that the Action has run successfully.
            Thank you so much for adding your information to the list.
            It will be active on callfordataspeakers.com shortly.
