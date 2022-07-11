@@ -1,19 +1,19 @@
 ### fullname
 
-Wolfgang Strasser
+Kay Sauter
 
 ### topics
 
-Data Governance, Azure Synapse, Power BI, Azure Data Factory
+powershell, dbatools, automation, bicep, vm, devops
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/wolfgang-strasser
+https://sessionize.com/kaysauter
 
 ### language
 
-English,German
+English, German
