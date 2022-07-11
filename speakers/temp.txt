@@ -1,19 +1,19 @@
 ### fullname
 
-Anthony Test
+Alexander Arvidsson
 
 ### topics
 
-kubernetes, sitting by the pool
+data visualization, presentation skills, data storytelling
 
 ### regions
 
-Europe, North America
+Europe, East Asia, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/anthony
+https://sessionize.com/alexanderarvidsson/
 
 ### language
 
-English, Italian, Kubernetes
+English
