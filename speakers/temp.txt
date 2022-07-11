@@ -1,19 +1,19 @@
 ### fullname
 
-Ásgeir Gunnarsson
+Ben Weissman
 
 ### topics
 
-Power BI Administration and Governance, Next Step Power BI Tabular Model Development
+ETL, SSIS, SSAS, Hybrid Architecture, Containers, Kubernetes, Arc, Big Data Clusters, Azure Data Architecture, SQL on Linux
 
 ### regions
 
-Europe, Middle East, South East Asia, East Asia, Oceania, North America
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/asgeirgunnarsson
+https://sessionize.com/benweissman/
 
 ### language
 
-English
+English, German
