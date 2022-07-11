@@ -1,19 +1,19 @@
 ### fullname
 
-Mikey Bronowski
+Ásgeir Gunnarsson
 
 ### topics
 
-database administration, dbatools, dbachecks, powershell, 
+Power BI Administration and Governance, Next Step Power BI Tabular Model Development
 
 ### regions
 
-Virtual, Europe, North America
+Europe, Middle East, South East Asia, East Asia, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/mikeybronowski
+https://sessionize.com/asgeirgunnarsson
 
 ### language
 
-English, Polish
+English
