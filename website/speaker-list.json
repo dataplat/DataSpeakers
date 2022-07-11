@@ -1,12 +1,5 @@
 [
   {
-    "name": "Anthony Test",
-    "topics": "kubernetes, sitting by the pool",
-    "regions": "Europe, North America",
-    "sessionize": "https://sessionize.com/anthony",
-    "language": "English, Italian, Kubernetes"
-  },
-  {
     "name": "Erik Darling",
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
