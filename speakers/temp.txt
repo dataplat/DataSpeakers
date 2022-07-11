@@ -1,19 +1,19 @@
 ### fullname
 
-Pragati Jain
+Wolfgang Strasser
 
 ### topics
 
-Power BI, data visualisation, power query, data storytelling, data analysis, data transformations, data presentation
+Data Governance, Azure Synapse, Power BI, Azure Data Factory
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/pragati-jain/
+https://sessionize.com/wolfgang-strasser
 
 ### language
 
-English
+English,German
