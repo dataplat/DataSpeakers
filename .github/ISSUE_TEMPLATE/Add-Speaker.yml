@@ -46,7 +46,7 @@ body:
     id: sessionize
     attributes:
       label: Sessionize
-      description: Please provide your SSessionize profile URL. It is important that this has all the required contact information on it.
+      description: Please provide your Sessionize profile URL. It is important that this has all the required contact information on it.
       placeholder: https://sessionize.com/rob-sewell
     validations:
       required: true
