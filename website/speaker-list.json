@@ -3,28 +3,24 @@
     "name": "Erik Darling",
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
-    "sessionize": "https://sessionize.com/erik-darling/",
-    "language": "English"
+    "sessionize": "https://sessionize.com/erik-darling/"
   },
   {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
-    "sessionize": "https://sessionize.com/jpomfret/",
-    "language": "English"
+    "sessionize": "https://sessionize.com/jpomfret/"
   },
   {
     "name": "Kevin Chant",
     "topics": "SQL Server, Azure Synapse, DevOps, Azure DevOps",
     "regions": "Virtual, Europe, North America",
-    "sessionize": "https://sessionize.com/kevin-chant",
-    "language": "English"
+    "sessionize": "https://sessionize.com/kevin-chant"
   },
   {
     "name": "Randolph West",
     "topics": "Database internals, Linux",
     "regions": "Virtual, North America",
-    "sessionize": "https://sessionize.com/bornsql/",
-    "language": "English"
+    "sessionize": "https://sessionize.com/bornsql/"
   }
 ]
