@@ -28,6 +28,13 @@
     "language": "English"
   },
   {
+    "name": "Hasan Savran",
+    "topics": "Azure Cosmos DB",
+    "regions": "Virtual, Europe, North America, South America",
+    "sessionize": "https://sessionize.com/hasan-savran/",
+    "language": "English"
+  },
+  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
