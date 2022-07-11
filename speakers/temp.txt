@@ -1,19 +1,19 @@
 ### fullname
 
-Alexander Arvidsson
+Mikey Bronowski
 
 ### topics
 
-data visualization, presentation skills, data storytelling
+database administration, dbatools, dbachecks, powershell, 
 
 ### regions
 
-Europe, East Asia, Oceania, North America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/alexanderarvidsson/
+https://sessionize.com/mikeybronowski
 
 ### language
 
-English
+English, Polish
