@@ -21,6 +21,13 @@
     "language": "English, German"
   },
   {
+    "name": "Dr Greg Low",
+    "topics": "Enterprise Power BI, SQL Server Development, Cosmos DB",
+    "regions": "Virtual, Europe, South East Asia, Oceania",
+    "sessionize": "https://sessionize.com/greglow/",
+    "language": "English, Very poor Mandarin"
+  },
+  {
     "name": "Erik Darling",
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
