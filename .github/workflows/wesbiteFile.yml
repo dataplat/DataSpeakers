@@ -3,7 +3,11 @@ name: Create the speaker-list json file
 on: 
  workflow_call:
  workflow_dispatch:
-
+ push:
+   branches:
+     - main
+   paths:
+     - speakers/*
 jobs:
   websiteFile:
     runs-on: ubuntu-latest
