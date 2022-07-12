@@ -91,6 +91,13 @@
     "language": "English"
   },
   {
+    "name": "Rob Farley",
+    "topics": "Presenting, Query Tuning, SQL Internals",
+    "regions": "Europe, Middle East, South East Asia, Oceania, North America",
+    "sessionize": "https://sessionize.com/rob-farley",
+    "language": "English"
+  },
+  {
     "name": "Rob Sewell",
     "topics": "dbachecks, dbatools, PowerShell, Dev Containers, Automation, DevOps, Bicep, Azure",
     "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
