@@ -1,19 +1,19 @@
 ### fullname
 
-Rob Farley
+Dr Greg Low
 
 ### topics
 
-Presenting, Query Tuning, SQL Internals
+Enterprise Power BI, SQL Server Development, Cosmos DB
 
 ### regions
 
-Europe, Middle East, South East Asia, Oceania, North America
+Virtual, Europe, South East Asia, Oceania
 
 ### Sessionize
 
-https://sessionize.com/rob-farley
+https://sessionize.com/greglow/
 
 ### language
 
-English
+English, Very poor Mandarin
