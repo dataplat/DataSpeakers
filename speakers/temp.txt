@@ -1,19 +1,19 @@
 ### fullname
 
-Kay Sauter
+Rob Farley
 
 ### topics
 
-powershell, dbatools, automation, bicep, vm, devops
+Presenting, Query Tuning, SQL Internals
 
 ### regions
 
-Virtual, Europe
+Europe, Middle East, South East Asia, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/kaysauter
+https://sessionize.com/rob-farley
 
 ### language
 
-English, German
+English
