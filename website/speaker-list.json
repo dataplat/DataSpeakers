@@ -49,13 +49,6 @@
     "language": "English, Dutch"
   },
   {
-    "name": "Jeremy Clarkson",
-    "topics": "shouting, SPEED, ra ra ra",
-    "regions": "Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America",
-    "sessionize": "jeremy-clarkson",
-    "language": "English - well sort of"
-  },
-  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
