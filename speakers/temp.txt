@@ -1,19 +1,19 @@
 ### fullname
 
-Jeremy Clarkson
+Richard Hammond
 
 ### topics
 
-shouting, SPEED, ra ra ra
+Being small, grinning
 
 ### regions
 
-Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America
+Europe
 
 ### Sessionize
 
-jeremy-clarkson
+richard-hammond
 
 ### language
 
-English - well sort of
+English
