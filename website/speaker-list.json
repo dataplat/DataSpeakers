@@ -70,6 +70,13 @@
     "language": "English, Dutch"
   },
   {
+    "name": "Jeremy Clarkson",
+    "topics": "shouting, SPEED",
+    "regions": "Virtual",
+    "sessionize": "jeremy",
+    "language": "English"
+  },
+  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
