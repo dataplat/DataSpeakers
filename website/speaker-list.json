@@ -21,6 +21,13 @@
     "language": "English, German"
   },
   {
+    "name": "Brent Ozar",
+    "topics": "Performance Tuning, Database Administration",
+    "regions": "Europe, North America",
+    "sessionize": "https://sessionize.com/brent-ozar/",
+    "language": "English"
+  },
+  {
     "name": "Dr Greg Low",
     "topics": "Enterprise Power BI, SQL Server Development, Cosmos DB",
     "regions": "Virtual, Europe, South East Asia, Oceania",
@@ -32,6 +39,13 @@
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
     "sessionize": "https://sessionize.com/erik-darling/",
+    "language": "English"
+  },
+  {
+    "name": "Glenn Berry",
+    "topics": "Database Administration, DMV Queries, Cloud Infrastructure, database hardware",
+    "regions": "Europe",
+    "sessionize": "https://sessionize.com/glenn-berry/",
     "language": "English"
   },
   {
@@ -50,10 +64,10 @@
   },
   {
     "name": "Jeremy Clarkson",
-    "topics": "shouting, SPEED, ra ra ra",
-    "regions": "Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America",
-    "sessionize": "jeremy-clarkson",
-    "language": "English - well sort of"
+    "topics": "SHOUTING, SPEEEEED, ra ra ra",
+    "regions": "Virtual",
+    "sessionize": "jeremy clarkson",
+    "language": "English"
   },
   {
     "name": "Jess Pomfret",
