@@ -21,6 +21,13 @@
     "language": "English, German"
   },
   {
+    "name": "Brent Ozar",
+    "topics": "Performance Tuning, Database Administration",
+    "regions": "Europe, North America",
+    "sessionize": "https://sessionize.com/brent-ozar/",
+    "language": "English"
+  },
+  {
     "name": "Dr Greg Low",
     "topics": "Enterprise Power BI, SQL Server Development, Cosmos DB",
     "regions": "Virtual, Europe, South East Asia, Oceania",
