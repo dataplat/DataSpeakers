@@ -13,6 +13,7 @@ jobs:
       with:
         fetch-depth: 0
         ref: main
+        token: ${{ secrets.REPO_TOKEN }}
     - name: Create New speaker-list.json
       run: |
         $speakerFiles = Get-ChildItem ./speakers/*.json
