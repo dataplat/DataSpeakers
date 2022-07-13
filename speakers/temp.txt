@@ -1,19 +1,19 @@
 ### fullname
 
-Dr Greg Low
+Hugo Kornelis
 
 ### topics
 
-Enterprise Power BI, SQL Server Development, Cosmos DB
+Query tuning, Execution plans
 
 ### regions
 
-Virtual, Europe, South East Asia, Oceania
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/greglow/
+https://sessionize.com/hugo-kornelis
 
 ### language
 
-English, Very poor Mandarin
+English, Dutch
