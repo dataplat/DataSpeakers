@@ -64,7 +64,10 @@ jobs:
   createSpeakerListJson:
     needs: addNewSpeaker
     uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
-
+    secrets:
+      REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+# painful   
+# https://github.community/t/reusable-workflows-secrets-and-environments/203695/18
   closeIssue:
      needs: [addNewSpeaker,createSpeakerListJson]
      runs-on: ubuntu-latest

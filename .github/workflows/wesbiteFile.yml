@@ -2,6 +2,9 @@ name: Create the speaker-list json file
 
 on: 
  workflow_call:
+  secrets:
+    REPO_TOKEN: 
+      required: true
  workflow_dispatch:
 
 jobs:
