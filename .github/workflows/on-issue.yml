@@ -13,7 +13,6 @@ jobs:
       with:
         fetch-depth: 0
         ref: main
-        token: ${{ secrets.REPO_TOKEN }}
     - name: Add comment to the issue
       uses: peter-evans/create-or-update-comment@v2
       with:
