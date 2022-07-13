@@ -42,6 +42,13 @@
     "language": "English"
   },
   {
+    "name": "Glenn Berry",
+    "topics": "Database Administration, DMV Queries, Cloud Infrastructure, database hardware",
+    "regions": "Europe",
+    "sessionize": "https://sessionize.com/glenn-berry/",
+    "language": "English"
+  },
+  {
     "name": "Hasan Savran",
     "topics": "Azure Cosmos DB",
     "regions": "Virtual, Europe, North America, South America",
