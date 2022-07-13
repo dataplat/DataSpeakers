@@ -1,19 +1,19 @@
 ### fullname
 
-Hugo Kornelis
+Jeremy Clarkson
 
 ### topics
 
-Query tuning, Execution plans
+shouting, SPEED, ra ra ra
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/hugo-kornelis
+jeremy-clarkson
 
 ### language
 
-English, Dutch
+English - well sort of
