@@ -1,6 +1,6 @@
 ### fullname
 
-Richard Hammond
+Richard Hamster
 
 ### topics
 
@@ -16,4 +16,4 @@ richard-hammond
 
 ### language
 
-English
+English - well sort of
