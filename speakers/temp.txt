@@ -1,18 +1,18 @@
 ### fullname
 
-Brent Ozar
+Glenn Berry
 
 ### topics
 
-Performance Tuning, Database Administration
+Database Administration, DMV Queries, Cloud Infrastructure, database hardware
 
 ### regions
 
-Europe, North America
+Europe
 
 ### Sessionize
 
-https://sessionize.com/brent-ozar/
+https://sessionize.com/glenn-berry/
 
 ### language
 
