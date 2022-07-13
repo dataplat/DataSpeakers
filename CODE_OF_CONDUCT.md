@@ -66,6 +66,12 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
+# Reporting
+
+If Rob is notified that you have broken the Code of Conduct at any event. He WILL remove you from this list.
+
+If you see a speaker that you know has broken the Code of Conduct at an event. Please let Rob Sewell know. You can find methods to contact him here https://robsewell.com
+
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
