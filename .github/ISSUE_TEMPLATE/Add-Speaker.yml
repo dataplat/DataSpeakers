@@ -5,11 +5,17 @@ body:
     attributes:
       value: |
        Please follow the instructions to create a new speaker entry.
-       We wil display this on callfordataspeakers.com
+       We wil display this on callfordataspeakers.com/precon
+       
+       # Code of conduct and expectations
+       
        By submitting, you are agreeing to our code of conduct 
        https://raw.githubusercontent.com/dataplat/DataSpeakers/main/CODE_OF_CONDUCT.md
        
        If Rob is notified that you have broken the Code of Conduct at any event. He WILL remove you from this list.
+
+       By submitting, you are agreeing to [our code of conduct](https://raw.githubusercontent.com/dataplat/DataSpeakers/main/CODE_OF_CONDUCT.md)
+       This might seem extreme to some people for a simple little list of people, but it is important and we mean it. If you are thinking in this way then we suggest that you please go and listen and read and understand the reasons why. You are welcome to contact me for places to do this
   - type: input
     id: name
     attributes:
