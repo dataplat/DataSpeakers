@@ -1,18 +1,18 @@
 ### fullname
 
-Glenn Berry
+Jeremy Clarkson
 
 ### topics
 
-Database Administration, DMV Queries, Cloud Infrastructure, database hardware
+SHOUTING, SPEEEEED, ra ra ra
 
 ### regions
 
-Europe
+Virtual
 
 ### Sessionize
 
-https://sessionize.com/glenn-berry/
+jeremy clarkson
 
 ### language
 
