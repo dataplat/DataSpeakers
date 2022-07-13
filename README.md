@@ -18,6 +18,8 @@ If Rob is notified that you have broken the Code of Conduct at any event. **He W
 
 If you see a speaker that you know has broken the Code of Conduct at an event. Please let Rob Sewell know. You can find methods to contact him here https://robsewell.com
 
+This might seem extreme to some people for a simple little list of people, but it is important and we mean it. If you are thinking in this way then we suggest that you please go and listen and read and understand the reasons why. You are welcome to contact me for places to do this
+
 ## To add yourself as a speaker
 
 This process is all automated and driven by GitHub Issues  
