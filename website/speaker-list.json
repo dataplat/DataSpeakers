@@ -49,6 +49,13 @@
     "language": "English, Dutch"
   },
   {
+    "name": "Jeremy Clarkson",
+    "topics": "shouting, SPEED, ra ra ra",
+    "regions": "Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America",
+    "sessionize": "jeremy-clarkson",
+    "language": "English - well sort of"
+  },
+  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
@@ -103,6 +110,20 @@
     "regions": "Virtual, North America",
     "sessionize": "https://sessionize.com/bornsql/",
     "language": "English"
+  },
+  {
+    "name": "Richard Hammond",
+    "topics": "Being small, grinning",
+    "regions": "Europe",
+    "sessionize": "richard-hammond",
+    "language": "English"
+  },
+  {
+    "name": "Richard Hamster",
+    "topics": "Being small, grinning",
+    "regions": "Europe",
+    "sessionize": "richard-hammond",
+    "language": "English - well sort of"
   },
   {
     "name": "Rob Farley",
