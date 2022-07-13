@@ -1,19 +1,19 @@
 ### fullname
 
-Jeremy Clarkson
+Brent Ozar
 
 ### topics
 
-shouting, SPEED, ra ra ra
+Performance Tuning, Database Administration
 
 ### regions
 
-Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America
+Europe, North America
 
 ### Sessionize
 
-jeremy-clarkson
+https://sessionize.com/brent-ozar/
 
 ### language
 
-English - well sort of
+English
