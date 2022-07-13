@@ -45,6 +45,7 @@ jobs:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
         message: 'The Beard says we updated the speaker-list.json. We have another speaker - This is an automated message'
+        github_token: ${{ secrets.REPO_TOKEN }}
 
     - name: Add another comment to the issue
       uses: peter-evans/create-or-update-comment@v2
