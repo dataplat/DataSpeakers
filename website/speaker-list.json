@@ -51,7 +51,7 @@
   {
     "name": "Glenn Berry",
     "topics": "Database Administration, DMV Queries, Cloud Infrastructure, database hardware",
-    "regions": "Europe",
+    "regions": "Europe, North America",
     "sessionize": "https://sessionize.com/glenn-berry/",
     "language": "English"
   },
@@ -68,13 +68,6 @@
     "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
     "sessionize": "https://sessionize.com/hugo-kornelis",
     "language": "English, Dutch"
-  },
-  {
-    "name": "Jeremy Clarkson",
-    "topics": "shouting, SPEED",
-    "regions": "Virtual",
-    "sessionize": "jeremy",
-    "language": "English"
   },
   {
     "name": "Jess Pomfret",
