@@ -5,7 +5,12 @@ on:
   secrets:
     REPO_TOKEN: 
       required: true
- workflow_dispatch:
+ workflow_dispatch: 
+ push:
+   branches:
+     - main
+   paths:
+     - speakers/*
 
 jobs:
   websiteFile:
