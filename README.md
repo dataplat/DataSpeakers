@@ -5,14 +5,22 @@ A simple repository to serve as a resource for event owners so that they can fin
 
 says Rob and so this will require that you the visitor assist, by asking speakers to add themselves and by sharing the web-page with event owners and on social media.    
   
-The data entered here will be loaded onto the [callfordataspeakers.com](https://callfordataspeakers.com) website for consumption. (The page hasn't been written yet (thats @dhmacher to do !!))
+The data entered here will be loaded onto the [callfordataspeakers.com](https://callfordataspeakers.com/precon) website for consumption. 
 
 Rob Sewell and Daniel Hutmacher
 @SQLDBAWithABeard @dhmacher
 
-This process is all automated and driven by GitHub Issues  
+# Code of conduct and expectations
+
+By submitting, you are agreeing to [our code of conduct](https://raw.githubusercontent.com/dataplat/DataSpeakers/main/CODE_OF_CONDUCT.md)
+       
+If Rob is notified that you have broken the Code of Conduct at any event. **He WILL remove you from this list**.
+
+If you see a speaker that you know has broken the Code of Conduct at an event. Please let Rob Sewell know. You can find methods to contact him here https://robsewell.com
 
 ## To add yourself as a speaker
+
+This process is all automated and driven by GitHub Issues  
 
 Open the [Issues Page](https://github.com/dataplat/DataSpeakers/issues) in this repository and click new issue
 
