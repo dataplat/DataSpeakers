@@ -69,7 +69,7 @@ jobs:
 # painful   
 # https://github.community/t/reusable-workflows-secrets-and-environments/203695/18
   closeIssue:
-   #  needs: [addNewSpeaker,createSpeakerListJson]
+     needs: [addNewSpeaker]
      runs-on: ubuntu-latest
      steps:
      - name: Close Issue
