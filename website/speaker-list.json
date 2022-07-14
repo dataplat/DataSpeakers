@@ -28,13 +28,6 @@
     "language": "English"
   },
   {
-    "name": "Captain Slow",
-    "topics": "getting lost, driving slowly",
-    "regions": "Virtual",
-    "sessionize": "james-may",
-    "language": "English"
-  },
-  {
     "name": "Dr Greg Low",
     "topics": "Enterprise Power BI, SQL Server Development, Cosmos DB",
     "regions": "Virtual, Europe, South East Asia, Oceania",
@@ -130,13 +123,6 @@
     "topics": "Database internals, Linux",
     "regions": "Virtual, North America",
     "sessionize": "https://sessionize.com/bornsql/",
-    "language": "English"
-  },
-  {
-    "name": "Richard Hamster Hammond",
-    "topics": "being small, grinning",
-    "regions": "Virtual",
-    "sessionize": "richard",
     "language": "English"
   },
   {
