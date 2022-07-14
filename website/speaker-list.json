@@ -126,6 +126,13 @@
     "language": "English"
   },
   {
+    "name": "Richard Hamster Hammond",
+    "topics": "being small, grinning",
+    "regions": "Virtual",
+    "sessionize": "richard",
+    "language": "English"
+  },
+  {
     "name": "Rob Farley",
     "topics": "Presenting, Query Tuning, SQL Internals",
     "regions": "Europe, Middle East, South East Asia, Oceania, North America",
