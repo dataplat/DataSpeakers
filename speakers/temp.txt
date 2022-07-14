@@ -1,10 +1,10 @@
 ### fullname
 
-Jeremy Clarkson
+Richard Hamster Hammond
 
 ### topics
 
-shouting, SPEED
+being small, grinning
 
 ### regions
 
@@ -12,7 +12,7 @@ Virtual
 
 ### Sessionize
 
-jeremy
+richard
 
 ### language
 
