@@ -1,10 +1,10 @@
 ### fullname
 
-Richard Hamster Hammond
+Captain Slow
 
 ### topics
 
-being small, grinning
+getting lost, driving slowly
 
 ### regions
 
@@ -12,7 +12,7 @@ Virtual
 
 ### Sessionize
 
-richard
+james-may
 
 ### language
 
