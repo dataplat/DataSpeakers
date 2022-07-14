@@ -1,18 +1,18 @@
 ### fullname
 
-Captain Slow
+Buck Woody
 
 ### topics
 
-getting lost, driving slowly
+Data Technologies, RDMBS Administration, Data Science, Professional Development, Business Intelligence, Data Engineering, Public Speaking 
 
 ### regions
 
-Virtual
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-james-may
+https://sessionize.com/BuckWoody
 
 ### language
 
