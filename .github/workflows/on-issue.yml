@@ -61,15 +61,15 @@ jobs:
         author_email: mrrobsewell@outlook.com
         message: 'The Beard says hooray we have another speaker @${{ github.event.issue.user.login }} - This is an automated message'
   
-  createSpeakerListJson:
-    needs: addNewSpeaker
-    uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
-    secrets:
-      REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+#  createSpeakerListJson:
+#    needs: addNewSpeaker
+#    uses: dataplat/DataSpeakers/.github/workflows/wesbiteFile.yml@main
+#    secrets:
+#      REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
 # painful   
 # https://github.community/t/reusable-workflows-secrets-and-environments/203695/18
   closeIssue:
-     needs: [addNewSpeaker,createSpeakerListJson]
+   #  needs: [addNewSpeaker,createSpeakerListJson]
      runs-on: ubuntu-latest
      steps:
      - name: Close Issue
