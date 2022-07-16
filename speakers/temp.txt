@@ -1,18 +1,18 @@
 ### fullname
 
-Buck Woody
+David Klee
 
 ### topics
 
-Data Technologies, RDMBS Administration, Data Science, Professional Development, Business Intelligence, Data Engineering, Public Speaking 
+Database administration, performance tuning, virtualization, IaaS, cloud migrations, high availability, disaster recovery
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Virtual
 
 ### Sessionize
 
-https://sessionize.com/BuckWoody
+https://sessionize.com/david-klee/
 
 ### language
 
