@@ -1,19 +1,19 @@
 ### fullname
 
-John Mousa
+Indira Bandari
 
 ### topics
 
-Cloud,Architecture,AWS,Analytics and Big data,Streaming,Event Driven,Microservices,Java,Kotlin
+Power BI, Azure SQL, Azure ML, Azure Synapse, 
 
 ### regions
 
-Virtual, Europe, Middle East, Africa
+Virtual, Oceania
 
 ### Sessionize
 
-https://sessionize.com/JohnMousa/
+https://sessionize.com/indira-bandari/
 
 ### language
 
-English,Arabic
+English, Telugu
