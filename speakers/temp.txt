@@ -1,19 +1,19 @@
 ### fullname
 
-David Klee
+John Mousa
 
 ### topics
 
-Database administration, performance tuning, virtualization, IaaS, cloud migrations, high availability, disaster recovery
+Cloud,Architecture,AWS,Analytics and Big data,Streaming,Microservices,Java,Kotlin
 
 ### regions
 
-Virtual
+Europe, Middle East, Africa
 
 ### Sessionize
 
-https://sessionize.com/david-klee/
+https://sessionize.com/JohnMousa/
 
 ### language
 
-English
+English,Arabic
