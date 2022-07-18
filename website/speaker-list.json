@@ -91,6 +91,13 @@
     "language": "English"
   },
   {
+    "name": "John Mousa",
+    "topics": "Cloud,Architecture,AWS,Analytics and Big data,Streaming,Microservices,Java,Kotlin",
+    "regions": "Europe, Middle East, Africa",
+    "sessionize": "https://sessionize.com/JohnMousa/",
+    "language": "English,Arabic"
+  },
+  {
     "name": "John Q. Martin",
     "topics": "Azure Data Platform, SQL Server, Azure Architecture, AWS Data Platform, AWS Architecture, Security, Terraform, Infrastructure as Code, DevOps, Hybrid Architecture, Amazon Redshift, Cloud Analytics, Performance Tuning",
     "regions": "Virtual, Europe, Oceania, North America",
