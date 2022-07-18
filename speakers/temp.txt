@@ -4,11 +4,11 @@ John Mousa
 
 ### topics
 
-Cloud,Architecture,AWS,Analytics and Big data,Streaming,Microservices,Java,Kotlin
+Cloud,Architecture,AWS,Analytics and Big data,Streaming,Event Driven,Microservices,Java,Kotlin
 
 ### regions
 
-Europe, Middle East, Africa
+Virtual, Europe, Middle East, Africa
 
 ### Sessionize
 
