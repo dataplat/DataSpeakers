@@ -84,6 +84,13 @@
     "language": "English, Dutch"
   },
   {
+    "name": "Indira Bandari",
+    "topics": "Power BI, Azure SQL, Azure ML, Azure Synapse, ",
+    "regions": "Virtual, Oceania",
+    "sessionize": "https://sessionize.com/indira-bandari/",
+    "language": "English, Telugu"
+  },
+  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
