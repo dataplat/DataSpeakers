@@ -92,8 +92,8 @@
   },
   {
     "name": "John Mousa",
-    "topics": "Cloud,Architecture,AWS,Analytics and Big data,Streaming,Microservices,Java,Kotlin",
-    "regions": "Europe, Middle East, Africa",
+    "topics": "Cloud,Architecture,AWS,Analytics and Big data,Streaming,Event Driven,Microservices,Java,Kotlin",
+    "regions": "Virtual, Europe, Middle East, Africa",
     "sessionize": "https://sessionize.com/JohnMousa/",
     "language": "English,Arabic"
   },
