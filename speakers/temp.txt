@@ -1,19 +1,19 @@
 ### fullname
 
-Indira Bandari
+Nikola Ilic
 
 ### topics
 
-Power BI, Azure SQL, Azure ML, Azure Synapse, 
+Microsoft Data Platform, Microsoft Power BI, Power BI performance tuning, Data Analytics, Data Visualization
 
 ### regions
 
-Virtual, Oceania
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/indira-bandari/
+https://sessionize.com/nikola-ilic/
 
 ### language
 
-English, Telugu
+English
