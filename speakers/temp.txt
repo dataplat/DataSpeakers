@@ -1,19 +1,19 @@
 ### fullname
 
-Nikola Ilic
+Heini Ilmarinen
 
 ### topics
 
-Microsoft Data Platform, Microsoft Power BI, Power BI performance tuning, Data Analytics, Data Visualization
+Azure Data Services, Infrastructure as Code, Terraform, Bicep, Architecture, Networking, Access control, Azure Synapse Analytics
 
 ### regions
 
-Virtual, Europe
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/nikola-ilic/
+https://sessionize.com/heini-ilmarinen
 
 ### language
 
-English
+English, Finnish
