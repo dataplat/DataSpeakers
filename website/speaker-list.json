@@ -77,6 +77,13 @@
     "language": "English"
   },
   {
+    "name": "Heini Ilmarinen",
+    "topics": "Azure Data Services, Infrastructure as Code, Terraform, Bicep, Architecture, Networking, Access control, Azure Synapse Analytics",
+    "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
+    "sessionize": "https://sessionize.com/heini-ilmarinen",
+    "language": "English, Finnish"
+  },
+  {
     "name": "Hugo Kornelis",
     "topics": "Query tuning, Execution plans",
     "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
