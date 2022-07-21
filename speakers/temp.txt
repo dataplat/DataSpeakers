@@ -1,19 +1,19 @@
 ### fullname
 
-Heini Ilmarinen
+Angela Henry
 
 ### topics
 
-Azure Data Services, Infrastructure as Code, Terraform, Bicep, Architecture, Networking, Access control, Azure Synapse Analytics
+Power BI, Data Governance, Report Builder, Dimensional Modeling
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Virtual, Europe, Africa, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/heini-ilmarinen
+https://sessionize.com/angela-henry/
 
 ### language
 
-English, Finnish
+English
