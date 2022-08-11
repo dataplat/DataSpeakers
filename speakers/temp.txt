@@ -1,18 +1,18 @@
 ### fullname
 
-Angela Henry
+Stuart Moore
 
 ### topics
 
-Power BI, Data Governance, Report Builder, Dimensional Modeling
+Database Administration, Automation, Database Security
 
 ### regions
 
-Virtual, Europe, Africa, Oceania, North America, South America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/angela-henry/
+https://sessionize.com/stuart-moore/
 
 ### language
 
