@@ -68,15 +68,13 @@ reporter of any incident.
 
 # Reporting
 
-If you see a speaker that you know has broken the Code of Conduct at an event. Please let Rob Sewell know. You can find methods to contact him here https://robsewell.com 
-
-You can also contact Jess Pomfret, Ben Weissman or Alexander Arvidsson
+If you see a speaker that you know has broken the Code of Conduct at an event. Please let Rob Sewell know. You can find methods to contact him here https://robsewell.com
 
 ## Enforcement Guidelines  
 
 If Rob is notified that any speaker on this list has broken the Code of Conduct at any event. He WILL remove them from this list. 
 
-This might seem extreme to some people for a simple little list of people, but it is important and we mean it. If you are thinking in this way then we suggest that you please go and listen and read and understand the reasons why. You are welcome to contact us for places to do this
+This might seem extreme to some people for a simple little list of people, but it is important and we mean it. If you are thinking in this way then we suggest that you please go and listen and read and understand the reasons why. You are welcome to contact me for places to do this
 
 ## Attribution
 
