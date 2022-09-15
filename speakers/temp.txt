@@ -1,18 +1,18 @@
 ### fullname
 
-Stuart Moore
+Patrick Gallucci
 
 ### topics
 
-Database Administration, Automation, Database Security
+DataOps, Security
 
 ### regions
 
-Virtual, Europe
+Virtual, Europe, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/stuart-moore/
+https://sessionize.com/patrickgallucci/
 
 ### language
 
