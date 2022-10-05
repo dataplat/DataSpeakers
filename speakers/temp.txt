@@ -1,18 +1,18 @@
 ### fullname
 
-Patrick Gallucci
+Simon Whiteley
 
 ### topics
 
-DataOps, Security
+Databricks, Delta, Lakehouse, Synapse Analytics, Spark
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/patrickgallucci/
+https://sessionize.com/simon-whiteley/
 
 ### language
 
