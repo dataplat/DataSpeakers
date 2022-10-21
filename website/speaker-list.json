@@ -140,6 +140,13 @@
     "language": "English"
   },
   {
+    "name": "Kevin Martin",
+    "topics": "Database Architecture, Database Development, Database Design, Database Modeling",
+    "regions": "Virtual, North America",
+    "sessionize": "https://sessionize.com/kevin-martin-tech",
+    "language": "English"
+  },
+  {
     "name": "Mikey Bronowski",
     "topics": "database administration, dbatools, dbachecks, powershell",
     "regions": "Virtual, Europe, North America",
