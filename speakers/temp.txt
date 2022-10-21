@@ -1,18 +1,18 @@
 ### fullname
 
-Simon Whiteley
+Kevin Martin
 
 ### topics
 
-Databricks, Delta, Lakehouse, Synapse Analytics, Spark
+Database Architecture, Database Development, Database Design, Database Modeling
 
 ### regions
 
-Virtual, Europe
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/simon-whiteley/
+https://sessionize.com/kevin-martin-tech
 
 ### language
 
