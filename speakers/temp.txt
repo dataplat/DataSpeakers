@@ -1,18 +1,18 @@
 ### fullname
 
-Kevin Martin
+Jimmy M Ledbetter Jr.
 
 ### topics
 
-Database Architecture, Database Development, Database Design, Database Modeling
+Analytics, Machine Learning, Visualizations, Data Storytelling, Data Governance, Data Culture, Data Driven Decision Making
 
 ### regions
 
-Virtual, North America
+North America
 
 ### Sessionize
 
-https://sessionize.com/kevin-martin-tech
+https://sessionize.com/jimmy-ledbetter/
 
 ### language
 
