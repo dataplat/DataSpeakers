@@ -1,18 +1,18 @@
 ### fullname
 
-Jimmy M Ledbetter Jr.
+Paul Andrew
 
 ### topics
 
-Analytics, Machine Learning, Visualizations, Data Storytelling, Data Governance, Data Culture, Data Driven Decision Making
+Azure, Data Platform, Architecture, Data Factory, Databricks, Delta Lake, Synapse Analytics, Data Mesh, Data Engineering
 
 ### regions
 
-North America
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/jimmy-ledbetter/
+https://sessionize.com/mrpaulandrew
 
 ### language
 
