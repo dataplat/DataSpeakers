@@ -1,18 +1,18 @@
 ### fullname
 
-Paul Andrew
+Grant Fritchey
 
 ### topics
 
-Azure, Data Platform, Architecture, Data Factory, Databricks, Delta Lake, Synapse Analytics, Data Mesh, Data Engineering
+Performance tuning, execution plans, DevOps, automation, deployment,
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/mrpaulandrew
+https://sessionize.com/GrantFritchey/
 
 ### language
 
