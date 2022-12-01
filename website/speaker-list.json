@@ -56,6 +56,13 @@
     "language": "English, Very poor Mandarin"
   },
   {
+    "name": "Els van Vessem",
+    "topics": "time management, T-SQL for beginners",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/ElsvanVessem",
+    "language": "English, Dutch"
+  },
+  {
     "name": "Erik Darling",
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
