@@ -1,19 +1,19 @@
 ### fullname
 
-Grant Fritchey
+Els van Vessem
 
 ### topics
 
-Performance tuning, execution plans, DevOps, automation, deployment,
+time management, T-SQL for beginners
 
 ### regions
 
-Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/GrantFritchey/
+https://sessionize.com/ElsvanVessem
 
 ### language
 
-English
+English, Dutch
