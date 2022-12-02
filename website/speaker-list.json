@@ -77,6 +77,13 @@
     "language": "English"
   },
   {
+    "name": "Erwin de Kreuk",
+    "topics": "Azure Synapse Analytics, Microsoft Purview, Azure Data Services, Access Control, Costs optimizing, Security",
+    "regions": "Europe",
+    "sessionize": "https://sessionize.com/erwin-de-kreuk/",
+    "language": "English, Dutch"
+  },
+  {
     "name": "Glenn Berry",
     "topics": "Database Administration, DMV Queries, Cloud Infrastructure, database hardware",
     "regions": "Europe, North America",
