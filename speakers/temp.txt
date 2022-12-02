@@ -1,18 +1,18 @@
 ### fullname
 
-Els van Vessem
+Erwin de Kreuk
 
 ### topics
 
-time management, T-SQL for beginners
+Azure Synapse Analytics, Microsoft Purview, Azure Data Services, Access Control, Costs optimizing, Security
 
 ### regions
 
-Virtual, Europe
+Europe
 
 ### Sessionize
 
-https://sessionize.com/ElsvanVessem
+https://sessionize.com/erwin-de-kreuk/
 
 ### language
 
