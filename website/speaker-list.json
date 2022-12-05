@@ -154,6 +154,13 @@
     "language": "English"
   },
   {
+    "name": "Just Blindbæk",
+    "topics": "Enterprise Power BI, Azure BI, Paginated Reports, Tabular models",
+    "regions": "Europe",
+    "sessionize": "https://sessionize.com/justB",
+    "language": "English, Danish"
+  },
+  {
     "name": "Kay Sauter",
     "topics": "powershell, dbatools, automation, bicep, vm, devops",
     "regions": "Virtual, Europe",
