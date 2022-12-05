@@ -1,10 +1,10 @@
 ### fullname
 
-Erwin de Kreuk
+Just Blindbæk
 
 ### topics
 
-Azure Synapse Analytics, Microsoft Purview, Azure Data Services, Access Control, Costs optimizing, Security
+Enterprise Power BI, Azure BI, Paginated Reports, Tabular models
 
 ### regions
 
@@ -12,8 +12,8 @@ Europe
 
 ### Sessionize
 
-https://sessionize.com/erwin-de-kreuk/
+https://sessionize.com/justB
 
 ### language
 
-English, Dutch
+English, Danish
