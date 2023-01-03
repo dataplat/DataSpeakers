@@ -1,18 +1,18 @@
 ### fullname
 
-Just Blindbæk
+Jon Stjernegaard Vöge
 
 ### topics
 
-Enterprise Power BI, Azure BI, Paginated Reports, Tabular models
+Power BI, Power Apps, Power Platform, Data Visualization Best Practice
 
 ### regions
 
-Europe
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/justB
+https://sessionize.com/jon-voge
 
 ### language
 
