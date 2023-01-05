@@ -1,19 +1,19 @@
 ### fullname
 
-Jon Stjernegaard Vöge
+Jens Vestergaard
 
 ### topics
 
-Power BI, Power Apps, Power Platform, Data Visualization Best Practice
+Azure Data, Power Platform
 
 ### regions
 
-Virtual, Europe
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/jon-voge
+https://sessionize.com/jens-vestergaard/
 
 ### language
 
-English, Danish
+English,Danish
