@@ -196,6 +196,13 @@
     "language": "English"
   },
   {
+    "name": "Mathias Halkjaer",
+    "topics": "Azure Synapse Analytics, Power BI, Data Architecture, Data Lakehouse, Data Warehouse, Access control",
+    "regions": "Europe, South East Asia, North America",
+    "sessionize": "https://sessionize.com/halkjaer/",
+    "language": "English, Danish"
+  },
+  {
     "name": "Mikey Bronowski",
     "topics": "database administration, dbatools, dbachecks, powershell",
     "regions": "Virtual, Europe, North America",
