@@ -1,19 +1,19 @@
 ### fullname
 
-Jens Vestergaard
+Mathias Halkjaer
 
 ### topics
 
-Azure Data, Power Platform
+Azure Synapse Analytics, Power BI, Data Architecture, Data Lakehouse, Data Warehouse, Access control
 
 ### regions
 
-Virtual, Europe, North America
+Europe, South East Asia, North America
 
 ### Sessionize
 
-https://sessionize.com/jens-vestergaard/
+https://sessionize.com/halkjaer/
 
 ### language
 
-English,Danish
+English, Danish
