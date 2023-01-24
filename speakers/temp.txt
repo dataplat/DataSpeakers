@@ -1,19 +1,19 @@
 ### fullname
 
-Mathias Halkjaer
+Brian Bønk
 
 ### topics
 
-Azure Synapse Analytics, Power BI, Data Architecture, Data Lakehouse, Data Warehouse, Access control
+SQL server performance, Execution Plans, Kusto
 
 ### regions
 
-Europe, South East Asia, North America
+Europe
 
 ### Sessionize
 
-https://sessionize.com/halkjaer/
+https://sessionize.com/brianbonk/
 
 ### language
 
-English, Danish
+English
