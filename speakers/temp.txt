@@ -1,19 +1,19 @@
 ### fullname
 
-Brian Bønk
+Johan Ludvig Brattås
 
 ### topics
 
-SQL server performance, Execution Plans, Kusto
+IoT, Cloud Infrastructure, Data Architecture, Synapse, Power BI, Databricks, Lakehouse, Data Warehousing
 
 ### regions
 
-Europe
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/brianbonk/
+https://sessionize.com/johan-ludvig-brattas/
 
 ### language
 
-English
+English, Norwegian
