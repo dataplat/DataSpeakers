@@ -154,6 +154,13 @@
     "language": "English"
   },
   {
+    "name": "Johan Ludvig Brattås",
+    "topics": "IoT, Cloud Infrastructure, Data Architecture, Synapse, Power BI, Databricks, Lakehouse, Data Warehousing",
+    "regions": "Virtual, Europe, North America",
+    "sessionize": "https://sessionize.com/johan-ludvig-brattas/",
+    "language": "English, Norwegian"
+  },
+  {
     "name": "John Mousa",
     "topics": "Cloud,Architecture,AWS,Analytics and Big data,Streaming,Event Driven,Microservices,Java,Kotlin",
     "regions": "Virtual, Europe, Middle East, Africa",
