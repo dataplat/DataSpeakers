@@ -1,19 +1,19 @@
 ### fullname
 
-Johan Ludvig Brattås
+Alpa Buddhabhatti
 
 ### topics
 
-IoT, Cloud Infrastructure, Data Architecture, Synapse, Power BI, Databricks, Lakehouse, Data Warehousing
+Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, Azure Data engineer, Azure Developer
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, Europe, Middle East, South East Asia, East Asia, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/johan-ludvig-brattas/
+https://sessionize.com/Alpa/
 
 ### language
 
-English, Norwegian
+English
