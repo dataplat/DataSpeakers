@@ -1,19 +1,19 @@
 ### fullname
 
-Alpa Buddhabhatti
+Milos Radivojevic
 
 ### topics
 
-Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, Azure Data engineer, Azure Developer
+Performance Tuning, Query Store, IQP, Transact-SQL
 
 ### regions
 
-Virtual, Europe, Middle East, South East Asia, East Asia, North America, South America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/Alpa/
+https://sessionize.com/milossql
 
 ### language
 
-English
+English, German, Serbian, Croatian
