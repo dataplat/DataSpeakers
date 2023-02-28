@@ -231,6 +231,13 @@
     "language": "English, Polish"
   },
   {
+    "name": "Milos Radivojevic",
+    "topics": "Performance Tuning, Query Store, IQP, Transact-SQL",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/milossql",
+    "language": "English, German, Serbian, Croatian"
+  },
+  {
     "name": "Monica Rathbun",
     "topics": "Performance Tuning and Optimization",
     "regions": "Virtual, Europe, North America",
