@@ -98,6 +98,13 @@
     "language": "English, Dutch"
   },
   {
+    "name": "Falek Miah",
+    "topics": "Lakehouse, Delta, Spark, Databricks, Azure DevOps, Terraform, Azure",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/falek-miah/",
+    "language": "English"
+  },
+  {
     "name": "Glenn Berry",
     "topics": "Database Administration, DMV Queries, Cloud Infrastructure, database hardware",
     "regions": "Europe, North America",
