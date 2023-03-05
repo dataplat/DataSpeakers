@@ -1,10 +1,10 @@
 ### fullname
 
-Milos Radivojevic
+Falek Miah
 
 ### topics
 
-Performance Tuning, Query Store, IQP, Transact-SQL
+Lakehouse, Delta, Spark, Databricks, Azure DevOps, Terraform, Azure
 
 ### regions
 
@@ -12,8 +12,8 @@ Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/milossql
+https://sessionize.com/falek-miah/
 
 ### language
 
-English, German, Serbian, Croatian
+English
