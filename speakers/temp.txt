@@ -1,18 +1,18 @@
 ### fullname
 
-Falek Miah
+Peter Shore
 
 ### topics
 
-Lakehouse, Delta, Spark, Databricks, Azure DevOps, Terraform, Azure
+Database Administration
 
 ### regions
 
-Virtual, Europe
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/falek-miah/
+https://sessionize.com/peter-shore
 
 ### language
 
