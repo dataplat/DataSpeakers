@@ -224,6 +224,13 @@
     "language": "English"
   },
   {
+    "name": "Marthe Moengen",
+    "topics": "Power BI Development process, Data Management, Power BI Governance, Data Governance, Power BI Best Practices, Power BI Dashboard in a Day",
+    "regions": "Virtual, Europe, South Asia, East Asia, North America, South America",
+    "sessionize": "https://sessionize.com/marthemoengen",
+    "language": "English, Norwegian"
+  },
+  {
     "name": "Mathias Halkjaer",
     "topics": "Azure Synapse Analytics, Power BI, Data Architecture, Data Lakehouse, Data Warehouse, Access control",
     "regions": "Europe, South East Asia, North America",
