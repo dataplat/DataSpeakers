@@ -1,19 +1,19 @@
 ### fullname
 
-Marthe Moengen
+Magnus Ahlkvist
 
 ### topics
 
-Power BI Development process, Data Management, Power BI Governance, Data Governance, Power BI Best Practices, Power BI Dashboard in a Day
+Containers, PowerShell, Database Administration, Azure
 
 ### regions
 
-Virtual, Europe, South Asia, East Asia, North America, South America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/marthemoengen
+https://sessionize.com/mahlkvist/
 
 ### language
 
-English, Norwegian
+English, Svenska
