@@ -1,19 +1,19 @@
 ### fullname
 
-Magnus Ahlkvist
+Bradley Ball
 
 ### topics
 
-Containers, PowerShell, Database Administration, Azure
+Azure Data Services, Database Administration, Data Analytics, Data Science, Kusto, Power BI, Azure Synapse, Azure Data Lake, OpenAI, ChatGPT, Python, Sentiment Analysis, Databricks, Data Lakehouse
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/mahlkvist/
+https://sessionize.com/bradley-ball-microsoft
 
 ### language
 
-English, Svenska
+English
