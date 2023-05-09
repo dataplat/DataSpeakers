@@ -1,19 +1,19 @@
 ### fullname
 
-Monica Rathbun
+Emanuele Meazzo
 
 ### topics
 
-Performance Tuning and Optimization
+Cloud Business Intelligence, Cloud Data, Cloud Transformation, Azure Data, Power BI, Azure Synapse Analytics
 
 ### regions
 
-Europe, North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/monica-rathbun/
+https://sessionize.com/emanuele-meazzo/
 
 ### language
 
-English
+English,Italian
