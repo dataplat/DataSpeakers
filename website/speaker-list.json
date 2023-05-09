@@ -84,6 +84,13 @@
     "language": "English, Dutch"
   },
   {
+    "name": "Emanuele Meazzo",
+    "topics": "Cloud Business Intelligence, Cloud Data, Cloud Transformation, Azure Data, Power BI, Azure Synapse Analytics",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/emanuele-meazzo/",
+    "language": "English,Italian"
+  },
+  {
     "name": "Erik Darling",
     "topics": "SQL Server performance tuning",
     "regions": "Europe, North America",
