@@ -1,18 +1,18 @@
 ### fullname
 
-Bradley Ball
+Monica Rathbun
 
 ### topics
 
-Azure Data Services, Database Administration, Data Analytics, Data Science, Kusto, Power BI, Azure Synapse, Azure Data Lake, OpenAI, ChatGPT, Python, Sentiment Analysis, Databricks, Data Lakehouse
+Performance Tuning and Optimization
 
 ### regions
 
-Virtual, North America
+Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/bradley-ball-microsoft
+https://sessionize.com/monica-rathbun/
 
 ### language
 
