@@ -1,19 +1,19 @@
 ### fullname
 
-Emanuele Meazzo
+James McGillivray
 
 ### topics
 
-Cloud Business Intelligence, Cloud Data, Cloud Transformation, Azure Data, Power BI, Azure Synapse Analytics
+Data Modelling, Data Wrangling, Visual Design
 
 ### regions
 
-Virtual, Europe
+Europe, Africa
 
 ### Sessionize
 
-https://sessionize.com/emanuele-meazzo/
+https://sessionize.com/james-mcgillivray/
 
 ### language
 
-English,Italian
+English
