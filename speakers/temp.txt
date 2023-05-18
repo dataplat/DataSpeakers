@@ -1,18 +1,18 @@
 ### fullname
 
-James McGillivray
+James Petty
 
 ### topics
 
-Data Modelling, Data Wrangling, Visual Design
+PowerShell, Cloud infrastructure, Azure, Windows Automation
 
 ### regions
 
-Europe, Africa
+North America
 
 ### Sessionize
 
-https://sessionize.com/james-mcgillivray/
+https://sessionize.com/james-petty
 
 ### language
 
