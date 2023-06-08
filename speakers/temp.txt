@@ -1,18 +1,18 @@
 ### fullname
 
-Cindy Gross
+Brett Miller
 
 ### topics
 
-Career, Adaptive Leadership, Boundaries, Confidence, Harassment, Bullying, Race + Gender Equity (DEIB), Indigenous perspective on DEIB
+Azure, PowerShell, Azure Functions, DevOps, IaC, git
 
 ### regions
 
-Virtual, North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/cindy-gross/
+https://sessionize.com/brett-miller
 
 ### language
 
