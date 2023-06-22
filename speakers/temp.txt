@@ -1,19 +1,19 @@
 ### fullname
 
-Brett Miller
+Cathrine Wilhelmsen
 
 ### topics
 
-Azure, PowerShell, Azure Functions, DevOps, IaC, git
+Data Integration, Data Engineering, ETL, Microsoft Fabric, Azure Synapse Analytics, Azure Data Factory, Professional Development, Presentation Skills, Public Speaking
 
 ### regions
 
-Virtual, Europe
+Europe, Africa, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/brett-miller
+https://sessionize.com/cathrinew
 
 ### language
 
-English
+English, Norwegian
