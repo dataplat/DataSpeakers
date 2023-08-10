@@ -1,19 +1,19 @@
 ### fullname
 
-Cathrine Wilhelmsen
+Andreas Wolter
 
 ### topics
 
-Data Integration, Data Engineering, ETL, Microsoft Fabric, Azure Synapse Analytics, Azure Data Factory, Professional Development, Presentation Skills, Public Speaking
+Database Administration, Security, Database Security, Performance, Purview policies Analysis
 
 ### regions
 
-Europe, Africa, East Asia, Oceania, North America, South America
+Virtual, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/cathrinew
+https://sessionize.com/AndreasWolter
 
 ### language
 
-English, Norwegian
+English,German
