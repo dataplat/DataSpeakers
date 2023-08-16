@@ -1,19 +1,19 @@
 ### fullname
 
-Andreas Wolter
+Tonie Huizer
 
 ### topics
 
-Database Administration, Security, Database Security, Performance, Purview policies Analysis
+Git, DevOps, Automation, ,DevOps Transformation, Database DevOps, Software Development
 
 ### regions
 
-Virtual, North America, South America
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/AndreasWolter
+https://sessionize.com/tonie/
 
 ### language
 
-English,German
+English, Dutch
