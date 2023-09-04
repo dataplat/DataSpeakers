@@ -1,19 +1,19 @@
 ### fullname
 
-Tonie Huizer
+Thomas LeBlanc
 
 ### topics
 
-Git, DevOps, Automation, ,DevOps Transformation, Database DevOps, Software Development
+Business Intelligence, SQL Server, Performance Tuning
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+North America
 
 ### Sessionize
 
-https://sessionize.com/tonie/
+https://sessionize.com/thomas-leblanc3786/
 
 ### language
 
-English, Dutch
+English
