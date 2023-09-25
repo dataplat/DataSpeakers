@@ -1,19 +1,19 @@
 ### fullname
 
-Odeta Jankaitienė
+Frank Geisler
 
 ### topics
 
-Power BI report creation, Power BI Rest API
+ADX (Azure Data Explorer), Real Time Analytics in Fabric, Database Administration, PowerShell, Database Design, Kubernetes, Docker, Power BI
 
 ### regions
 
-Virtual, Europe
+Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/odeta
+https://sessionize.com/FrankGeisler
 
 ### language
 
-English, Lithuanian
+English, German
