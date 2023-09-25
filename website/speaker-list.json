@@ -147,6 +147,13 @@
     "language": "English"
   },
   {
+    "name": "Frank Geisler",
+    "topics": "ADX (Azure Data Explorer), Real Time Analytics in Fabric, Database Administration, PowerShell, Database Design, Kubernetes, Docker, Power BI",
+    "regions": "Europe, North America",
+    "sessionize": "https://sessionize.com/FrankGeisler",
+    "language": "English, German"
+  },
+  {
     "name": "Glenn Berry",
     "topics": "Database Administration, DMV Queries, Cloud Infrastructure, database hardware",
     "regions": "Europe, North America",
