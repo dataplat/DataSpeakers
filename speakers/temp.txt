@@ -1,19 +1,19 @@
 ### fullname
 
-Frank Geisler
+Nicky van Vroenhoven
 
 ### topics
 
-ADX (Azure Data Explorer), Real Time Analytics in Fabric, Database Administration, PowerShell, Database Design, Kubernetes, Docker, Power BI
+Power BI Governance, Power BI best practices, Power BI hands-on/DIAD, Fabric hands-on, Synapse Analytics
 
 ### regions
 
-Europe, North America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/FrankGeisler
+https://sessionize.com/nicky-van-vroenhoven/
 
 ### language
 
-English, German
+English, Dutch
