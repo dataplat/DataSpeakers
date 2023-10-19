@@ -1,10 +1,10 @@
 ### fullname
 
-Shannon Lindsay
+Stephanie Bruno
 
 ### topics
 
-Microsoft Fabric, Power BI, Power Query, Analytics, Microsoft Data Certifications
+Microsoft Fabric, Power BI, Analytics
 
 ### regions
 
@@ -12,7 +12,7 @@ Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/shannonrlindsay/
+https://sessionize.com/stephanie-bruno
 
 ### language
 
