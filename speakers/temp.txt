@@ -1,19 +1,19 @@
 ### fullname
 
-Nicky van Vroenhoven
+Shannon Lindsay
 
 ### topics
 
-Power BI Governance, Power BI best practices, Power BI hands-on/DIAD, Fabric hands-on, Synapse Analytics
+Microsoft Fabric, Power BI, Power Query, Analytics, Microsoft Data Certifications
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/nicky-van-vroenhoven/
+https://sessionize.com/shannonrlindsay/
 
 ### language
 
-English, Dutch
+English
