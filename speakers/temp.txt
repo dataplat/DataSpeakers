@@ -1,19 +1,19 @@
 ### fullname
 
-Stephanie Bruno
+Cláudio Silva
 
 ### topics
 
-Microsoft Fabric, Power BI, Analytics
+Performance Tuning, T-SQL, SQL Server, database administration, automation, PowerShell, dbatools, dbachecks
 
 ### regions
 
-Virtual, North America
+Virtual, Europe, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/stephanie-bruno
+https://sessionize.com/claudio-silva/
 
 ### language
 
-English
+English, Portuguese
