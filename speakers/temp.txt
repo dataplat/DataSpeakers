@@ -1,19 +1,19 @@
 ### fullname
 
-Cláudio Silva
+Kanwal Khipple
 
 ### topics
 
-Performance Tuning, T-SQL, SQL Server, database administration, automation, PowerShell, dbatools, dbachecks
+leadership, portals, user experience, microsoft 365, power platform
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe, South Asia, South East Asia, East Asia, North America
 
 ### Sessionize
 
-https://sessionize.com/claudio-silva/
+https://sessionize.com/kanwal-khipple/
 
 ### language
 
-English, Portuguese
+English
