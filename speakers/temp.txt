@@ -1,18 +1,18 @@
 ### fullname
 
-Kanwal Khipple
+Jes Schultz 
 
 ### topics
 
-leadership, portals, user experience, microsoft 365, power platform
+Azure Databases, Azure SQL Database options, Azure SQL Database business continuity, Azure SQL Database performance 
 
 ### regions
 
-Virtual, Europe, South Asia, South East Asia, East Asia, North America
+Virtual, Europe, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/kanwal-khipple/
+https://sessionize.com/jes-schultz/
 
 ### language
 
