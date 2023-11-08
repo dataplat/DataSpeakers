@@ -224,6 +224,13 @@
     "language": "English,Danish"
   },
   {
+    "name": "Jes Schultz ",
+    "topics": "Azure Databases, Azure SQL Database options, Azure SQL Database business continuity, Azure SQL Database performance ",
+    "regions": "Virtual, Europe, North America, South America",
+    "sessionize": "https://sessionize.com/jes-schultz/",
+    "language": "English"
+  },
+  {
     "name": "Jess Pomfret",
     "topics": "dbatools, dbachecks, dev containers, automating database administration",
     "regions": "Virtual, Europe, North America",
