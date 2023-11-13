@@ -1,19 +1,19 @@
 ### fullname
 
-Jes Schultz 
+Štěpán Rešl
 
 ### topics
 
-Azure Databases, Azure SQL Database options, Azure SQL Database business continuity, Azure SQL Database performance 
+Power BI, Power Query, Microsoft Fabric, Data Analytics, Data Storytelling, Data Visualisation, Governance
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/jes-schultz/
+https://sessionize.com/stepan-resl
 
 ### language
 
-English
+English, Czech
