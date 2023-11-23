@@ -1,19 +1,19 @@
 ### fullname
 
-Štěpán Rešl
+Peter Flook
 
 ### topics
 
-Power BI, Power Query, Microsoft Fabric, Data Analytics, Data Storytelling, Data Visualisation, Governance
+Data testing, Testing automation, Data quality, Data contracts, Continuous testing
 
 ### regions
 
-Virtual, Europe, East Asia, Oceania, North America, South America
+Virtual, Europe, South Asia, South East Asia, East Asia, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/stepan-resl
+https://sessionize.com/peter-flook/
 
 ### language
 
-English, Czech
+English
