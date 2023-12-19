@@ -1,18 +1,18 @@
 ### fullname
 
-Elena Marquetti-Ali
+Aaron N. Cutshall
 
 ### topics
 
-Magnetic Leadership, Leading Remote Teams, Professional Development, Energizing & Synergizing Teams
+Database Development, SQL Server, Postgres, Professional Development
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/elena-marquetti-ali
+Https://www.sessionize.com/sqlrv
 
 ### language
 
