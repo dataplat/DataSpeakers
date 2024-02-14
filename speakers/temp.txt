@@ -1,19 +1,19 @@
 ### fullname
 
-Aaron N. Cutshall
+Valerie Junk
 
 ### topics
 
-Database Development, SQL Server, Postgres, Professional Development
+Data Storytelling, Data visualization, Power BI, Data presentation
 
 ### regions
 
-Virtual, North America
+Virtual, Europe, Oceania, North America, South America
 
 ### Sessionize
 
-Https://www.sessionize.com/sqlrv
+https://sessionize.com/valerie-junk/
 
 ### language
 
-English
+English, Dutch
