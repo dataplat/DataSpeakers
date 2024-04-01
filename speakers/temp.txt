@@ -1,19 +1,19 @@
 ### fullname
 
-Valerie Junk
+Roman Tesolkin
 
 ### topics
 
-Data Storytelling, Data visualization, Power BI, Data presentation
+Power BI report design, Data visualization, Storytelling, Adult ADHD strategies in data analysis, Neurodiversity and data analysis, Practical AI applications in data analysis
 
 ### regions
 
-Virtual, Europe, Oceania, North America, South America
+Europe
 
 ### Sessionize
 
-https://sessionize.com/valerie-junk/
+https://sessionize.com/roman-tesolkin/
 
 ### language
 
-English, Dutch
+English
