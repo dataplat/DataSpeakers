@@ -1,19 +1,19 @@
 ### fullname
 
-Roman Tesolkin
+Sai Prudhvi Neelakantam
 
 ### topics
 
-Power BI report design, Data visualization, Storytelling, Adult ADHD strategies in data analysis, Neurodiversity and data analysis, Practical AI applications in data analysis
+Artificial Intelligence (AI), Azure AI, Cloud Analytics, Data Analytics, Data Engineering, Data Visualization, Databricks, Generative AI, Microsoft Power BI, OpenAI, Python, SQL, 
 
 ### regions
 
-Europe
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/roman-tesolkin/
+https://sessionize.com/saiprudhvineelakantam/
 
 ### language
 
-English
+English, Telugu
