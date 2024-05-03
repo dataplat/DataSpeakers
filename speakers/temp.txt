@@ -1,19 +1,19 @@
 ### fullname
 
-Sai Prudhvi Neelakantam
+Sónia Cruz
 
 ### topics
 
-Artificial Intelligence (AI), Azure AI, Cloud Analytics, Data Analytics, Data Engineering, Data Visualization, Databricks, Generative AI, Microsoft Power BI, OpenAI, Python, SQL, 
+Power BI, Data Architecture, Data Modelling, Data Visualization, Analytics, Real-time Analytics, Fabric, Data Storytelling
 
 ### regions
 
-Virtual, Europe
+Virtual, Europe, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/saiprudhvineelakantam/
+https://sessionize.com/sonia-cruz/
 
 ### language
 
-English, Telugu
+English, German, Portuguese
