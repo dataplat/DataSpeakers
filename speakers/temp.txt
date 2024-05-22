@@ -1,19 +1,19 @@
 ### fullname
 
-Sónia Cruz
+James Reeves
 
 ### topics
 
-Power BI, Data Architecture, Data Modelling, Data Visualization, Analytics, Real-time Analytics, Fabric, Data Storytelling
+Power BI, Azure SQL, VBA, Data Factory
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe, Oceania
 
 ### Sessionize
 
-https://sessionize.com/sonia-cruz/
+https://sessionize.com/SQLCestrian/
 
 ### language
 
-English, German, Portuguese
+English
