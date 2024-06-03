@@ -1,18 +1,18 @@
 ### fullname
 
-James Reeves
+Sairam Yeturi
 
 ### topics
 
-Power BI, Azure SQL, VBA, Data Factory
+Analytics, Kubernetes, HDInsight on AKS, HDInsight, Open source analytics
 
 ### regions
 
-Virtual, Europe, Oceania
+Virtual, Europe, Middle East, South Asia, South East Asia, East Asia
 
 ### Sessionize
 
-https://sessionize.com/SQLCestrian/
+https://sessionize.com/sairam_yeturi/
 
 ### language
 
