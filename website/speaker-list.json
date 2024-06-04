@@ -343,6 +343,13 @@
     "language": "English, Norwegian"
   },
   {
+    "name": "Martin Schoombee",
+    "topics": "Analytics, ETL, Power BI, Azure Data Factory",
+    "regions": "North America",
+    "sessionize": "https://sessionize.com/MartinSchoombee/",
+    "language": "English"
+  },
+  {
     "name": "Mathias Halkjaer",
     "topics": "Azure Synapse Analytics, Power BI, Data Architecture, Data Lakehouse, Data Warehouse, Access control",
     "regions": "Europe, South East Asia, North America",
