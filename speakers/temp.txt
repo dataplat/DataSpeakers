@@ -1,18 +1,18 @@
 ### fullname
 
-Sairam Yeturi
+Martin Schoombee
 
 ### topics
 
-Analytics, Kubernetes, HDInsight on AKS, HDInsight, Open source analytics
+Analytics, ETL, Power BI, Azure Data Factory
 
 ### regions
 
-Virtual, Europe, Middle East, South Asia, South East Asia, East Asia
+North America
 
 ### Sessionize
 
-https://sessionize.com/sairam_yeturi/
+https://sessionize.com/MartinSchoombee/
 
 ### language
 
