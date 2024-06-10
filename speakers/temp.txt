@@ -1,18 +1,18 @@
 ### fullname
 
-Martin Schoombee
+Heather McDaniel
 
 ### topics
 
-Analytics, ETL, Power BI, Azure Data Factory
+data storytelling, data culture, data communications, data driven decision making
 
 ### regions
 
-North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/MartinSchoombee/
+https://sessionize.com/heather-mcdaniel
 
 ### language
 
