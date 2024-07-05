@@ -1,18 +1,18 @@
 ### fullname
 
-Heather McDaniel
+Olivier Van Steenlandt
 
 ### topics
 
-data storytelling, data culture, data communications, data driven decision making
+Database Development / Deployment Automation
 
 ### regions
 
-Virtual, Europe
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/heather-mcdaniel
+https://sessionize.com/oliviervansteenlandt/
 
 ### language
 
