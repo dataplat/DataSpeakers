@@ -1,19 +1,19 @@
 ### fullname
 
-Prof.Christian Farioli
+Bas Land
 
 ### topics
 
-Digital Marketing, AI, Analytics, 
+Microsoft Fabric, Power BI, Data Engineering, Data Architecture
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/christian-farioli
+https://sessionize.com/basland/
 
 ### language
 
-English, Italian, Spanish
+English, Dutch
