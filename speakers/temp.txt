@@ -1,19 +1,19 @@
 ### fullname
 
-Bas Land
+Elena Drakulevska
 
 ### topics
 
-Microsoft Fabric, Power BI, Data Engineering, Data Architecture
+ux design, data visualization, power bi, data storytelling
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, Europe, Africa, South East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/basland/
+https://sessionize.com/elenadrakul/
 
 ### language
 
-English, Dutch
+English
