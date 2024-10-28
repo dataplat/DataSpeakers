@@ -1,18 +1,18 @@
 ### fullname
 
-Elena Drakulevska
+Guilherme Diaz-Berrio
 
 ### topics
 
-ux design, data visualization, power bi, data storytelling
+Data Science, Marketing Analytics, SQL, PowerBI, Marketing Data Science, Digital Attribution, Media Mix Modelling, A/B Testing, Reporting, Econometrics
 
 ### regions
 
-Virtual, Europe, Africa, South East Asia, Oceania, North America, South America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/elenadrakul/
+https://sessionize.com/guilherme-diazberrio/
 
 ### language
 
