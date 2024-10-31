@@ -49,6 +49,13 @@
     "language": "English, Dutch"
   },
   {
+    "name": "Ben Ferry",
+    "topics": "Deneb, Vega-Lite, Datavis",
+    "regions": "Europe, North America",
+    "sessionize": "https://sessionize.com/powerbiferrytales/",
+    "language": "English, German"
+  },
+  {
     "name": "Ben Weissman",
     "topics": "ETL, SSIS, Biml, SSAS, Hybrid Architecture, Containers, Kubernetes, Arc, Big Data Clusters, Azure Data Architecture, SQL on Linux",
     "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
