@@ -1,19 +1,19 @@
 ### fullname
 
-Guilherme Diaz-Berrio
+Ben Ferry
 
 ### topics
 
-Data Science, Marketing Analytics, SQL, PowerBI, Marketing Data Science, Digital Attribution, Media Mix Modelling, A/B Testing, Reporting, Econometrics
+Deneb, Vega-Lite, Datavis
 
 ### regions
 
-Virtual, Europe
+Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/guilherme-diazberrio/
+https://sessionize.com/powerbiferrytales/
 
 ### language
 
-English
+English, German
