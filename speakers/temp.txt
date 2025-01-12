@@ -1,19 +1,19 @@
 ### fullname
 
-Sarah F. Wimberley
+Markus Ehrenmueller-Jensen
 
 ### topics
 
-project and change management frameworks, leadership and communication styles, building trust in a dynamic team/organization during times of change, managing customer data/experiences and stakeholder expectations, marketing technology and integrations, finding empowerment / professional development
+Power BI, Fabric, Data Modeling
 
 ### regions
 
-Virtual, Europe, North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/sarahfwimberley/
+https://sessionize.com/markus-ehrenmuller-jensen/
 
 ### language
 
-English
+English, German, Danish
