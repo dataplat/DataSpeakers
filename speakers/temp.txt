@@ -1,10 +1,10 @@
 ### fullname
 
-Markus Ehrenmueller-Jensen
+Dora Moldovan
 
 ### topics
 
-Power BI, Fabric, Data Modeling
+AI & Machine Learning, Data strategy, Data compliance, Data governance, Business Intelligence, Data Analytics
 
 ### regions
 
@@ -12,8 +12,8 @@ Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/markus-ehrenmuller-jensen/
+https://sessionize.com/dora-moldovan/
 
 ### language
 
-English, German, Danish
+English
