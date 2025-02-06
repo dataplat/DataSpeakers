@@ -1,18 +1,18 @@
 ### fullname
 
-Dora Moldovan
+Swati Jitendrakumar Patel
 
 ### topics
 
-AI & Machine Learning, Data strategy, Data compliance, Data governance, Business Intelligence, Data Analytics
+Artificial Intelligence, Machine Learning, Power BI, SQL, Python, Java, R
 
 ### regions
 
-Virtual, Europe
+Virtual
 
 ### Sessionize
 
-https://sessionize.com/dora-moldovan/
+https://sessionize.com/swatipatel108
 
 ### language
 
