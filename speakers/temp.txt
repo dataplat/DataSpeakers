@@ -1,19 +1,19 @@
 ### fullname
 
-Swati Jitendrakumar Patel
+Domagoj Marić
 
 ### topics
 
-Artificial Intelligence, Machine Learning, Power BI, SQL, Python, Java, R
+web scraping, web crawling, python programming, data science & AI
 
 ### regions
 
-Virtual
+Europe
 
 ### Sessionize
 
-https://sessionize.com/swatipatel108
+https://sessionize.com/domagoj-maric/
 
 ### language
 
-English
+English, Croatian
