@@ -1,19 +1,19 @@
 ### fullname
 
-Domagoj Marić
+Nilanjan Chatterjee
 
 ### topics
 
-web scraping, web crawling, python programming, data science & AI
+Data Modelling, Data Architecture, AWS, GCP, Azure, Data Warehouse, Data Lakehouse, Redshift, Bigquery, Fabric, Databricks, Snowflake, SQL Server, Oracle, Cassandra, Mongo DB
 
 ### regions
 
-Europe
+North America
 
 ### Sessionize
 
-https://sessionize.com/domagoj-maric/
+https://sessionize.com/nilanjan-chatterjee/
 
 ### language
 
-English, Croatian
+English
