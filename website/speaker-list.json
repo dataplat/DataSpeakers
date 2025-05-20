@@ -656,5 +656,12 @@
     "regions": "Virtual, Europe, North America",
     "sessionize": "https://sessionize.com/wolfgang-strasser",
     "language": "English,German"
+  },
+  {
+    "name": "Zita Pelok",
+    "topics": "PowerBI, People Analytics, HR Data Analytics, Data Analytics, Data Modeling, Report Automation, data storytelling,, learning, Security",
+    "regions": "Europe, Virtual, Africa",
+    "sessionize": "https://sessionize.com/zita-pelok",
+    "language": "English, Hungarian, Romanian"
   }
 ]
