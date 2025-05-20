@@ -1,19 +1,19 @@
 ### fullname
 
-Nilanjan Chatterjee
+Zita Pelok
 
 ### topics
 
-Data Modelling, Data Architecture, AWS, GCP, Azure, Data Warehouse, Data Lakehouse, Redshift, Bigquery, Fabric, Databricks, Snowflake, SQL Server, Oracle, Cassandra, Mongo DB
+PowerBI, People Analytics, HR Data Analytics, Data Analytics, Data Modeling, Report Automation, data storytelling,, learning, Security
 
 ### regions
 
-North America
+Europe, Virtual, Africa
 
 ### Sessionize
 
-https://sessionize.com/nilanjan-chatterjee/
+https://sessionize.com/zita-pelok
 
 ### language
 
-English
+English, Hungarian, Romanian
