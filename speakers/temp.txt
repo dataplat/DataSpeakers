@@ -1,18 +1,18 @@
 ### fullname
 
-Michael McKinley
+Ryan Adams
 
 ### topics
 
-Power BI, Fabric, Azure, AI, ETL
+Fabric, SQL HADR
 
 ### regions
 
-Virtual, North America
+North America, Europe
 
 ### Sessionize
 
-https://sessionize.com/michael-mckinley
+https://sessionize.com/ryan-adams/
 
 ### language
 
