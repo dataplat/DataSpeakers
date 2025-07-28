@@ -553,6 +553,13 @@
     "language": "English"
   },
   {
+    "name": "Ryan Adams",
+    "topics": "Fabric, SQL HADR",
+    "regions": "North America, Europe",
+    "sessionize": "https://sessionize.com/ryan-adams/",
+    "language": "English"
+  },
+  {
     "name": "Sai Prudhvi Neelakantam",
     "topics": "Artificial Intelligence (AI), Azure AI, Cloud Analytics, Data Analytics, Data Engineering, Data Visualization, Databricks, Generative AI, Microsoft Power BI, OpenAI, Python, SQL, ",
     "regions": "Virtual, Europe",
