@@ -1,19 +1,19 @@
 ### fullname
 
-Zita Pelok
+Michael McKinley
 
 ### topics
 
-PowerBI, People Analytics, HR Data Analytics, Data Analytics, Data Modeling, Report Automation, data storytelling,, learning, Security
+Power BI, Fabric, Azure, AI, ETL
 
 ### regions
 
-Europe, Virtual, Africa
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/zita-pelok
+https://sessionize.com/michael-mckinley
 
 ### language
 
-English, Hungarian, Romanian
+English
