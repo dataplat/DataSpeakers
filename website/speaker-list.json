@@ -413,6 +413,13 @@
     "language": "English, Danish"
   },
   {
+    "name": "Michael McKinley",
+    "topics": "Power BI, Fabric, Azure, AI, ETL",
+    "regions": "Virtual, North America",
+    "sessionize": "https://sessionize.com/michael-mckinley",
+    "language": "English"
+  },
+  {
     "name": "Mikey Bronowski",
     "topics": "database administration, dbatools, dbachecks, powershell",
     "regions": "Virtual, Europe, North America",
