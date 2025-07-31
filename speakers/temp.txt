@@ -1,18 +1,18 @@
 ### fullname
 
-Ryan Adams
+John Sterrett
 
 ### topics
 
-Fabric, SQL HADR
+Performance Tuning, Database Administration, Database Security
 
 ### regions
 
-North America, Europe
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/ryan-adams/
+https://sessionize.com/john-sterrett
 
 ### language
 
