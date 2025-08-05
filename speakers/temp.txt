@@ -1,19 +1,19 @@
 ### fullname
 
-John Sterrett
+Sara Magdalena Goldberger
 
 ### topics
 
-Performance Tuning, Database Administration, Database Security
+privacy, data privacy, digital transformation, process development, governance, regulations, compliance, EU law, GDPR, AI regulation, regulatory compliance, governement innovation. smart cities, data compliance, privacy and data protection. 
 
 ### regions
 
-Virtual, North America
+Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/john-sterrett
+https://sessionize.com/sara-magdalena-goldberger 
 
 ### language
 
-English
+English, Swedish, French
