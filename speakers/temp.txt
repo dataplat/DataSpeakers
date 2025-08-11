@@ -1,19 +1,19 @@
 ### fullname
 
-Sara Magdalena Goldberger
+Marilina Trevisan
 
 ### topics
 
-privacy, data privacy, digital transformation, process development, governance, regulations, compliance, EU law, GDPR, AI regulation, regulatory compliance, governement innovation. smart cities, data compliance, privacy and data protection. 
+Data & AI Products, Data analytics, Data Science, AI, ssot, machine learning, data storytelling, databases for AI, data viz, Ethics & Gender studies in AI, dashboards
 
 ### regions
 
-Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America
+Virtual, North America, South America, Europe, Africa
 
 ### Sessionize
 
-https://sessionize.com/sara-magdalena-goldberger 
+https://sessionize.com/marilina-trevisan/
 
 ### language
 
-English, Swedish, French
+English, Spanish
