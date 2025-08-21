@@ -1,19 +1,19 @@
 ### fullname
 
-Marilina Trevisan
+Randy Knight
 
 ### topics
 
-Data & AI Products, Data analytics, Data Science, AI, ssot, machine learning, data storytelling, databases for AI, data viz, Ethics & Gender studies in AI, dashboards
+Database Administration, Azure, Hybrid Cloud,  Performance Tuning, Availability Groups,  SQL Server Infrastructure
 
 ### regions
 
-Virtual, North America, South America, Europe, Africa
+Virtual, North America, South America, Europe
 
 ### Sessionize
 
-https://sessionize.com/marilina-trevisan/
+https://sessionize.com/randy-knight
 
 ### language
 
-English, Spanish
+English
