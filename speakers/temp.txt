@@ -1,19 +1,19 @@
 ### fullname
 
-Randy Knight
+David Kofod Hanna
 
 ### topics
 
-Database Administration, Azure, Hybrid Cloud,  Performance Tuning, Availability Groups,  SQL Server Infrastructure
+Power BI, Power Query, Tabular Editor, Report Design
 
 ### regions
 
-Virtual, North America, South America, Europe
+Europe, Virtual
 
 ### Sessionize
 
-https://sessionize.com/randy-knight
+https://sessionize.com/david-kofod-hanna/
 
 ### language
 
-English
+English, Danish
