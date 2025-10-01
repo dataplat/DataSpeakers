@@ -1,18 +1,18 @@
 ### fullname
 
-David Kofod Hanna
+Christian Henrik Reich
 
 ### topics
 
-Power BI, Power Query, Tabular Editor, Report Design
+Apache Spark, Apache Arrow, SQL Server, Python data processing, Lakehousing, Performance, Azure
 
 ### regions
 
-Europe, Virtual
+Virtual, Europe, North America, East Asia
 
 ### Sessionize
 
-https://sessionize.com/david-kofod-hanna/
+https://sessionize.com/christian-henrik-reich/
 
 ### language
 
