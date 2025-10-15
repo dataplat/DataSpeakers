@@ -1,19 +1,19 @@
 ### fullname
 
-Christian Henrik Reich
+Swathi Priya Mannepalli
 
 ### topics
 
-Apache Spark, Apache Arrow, SQL Server, Python data processing, Lakehousing, Performance, Azure
+Microsoft Fabric, SQL Databases, Lakehouse, Medallion Architecture, Fabric and AI, Microsoft Fabric Copilot Features, Microsoft Fabric CI/CD Best Practices, Power BI
 
 ### regions
 
-Virtual, Europe, North America, East Asia
+Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/christian-henrik-reich/
+https://sessionize.com/swathi-priya-mannepalli
 
 ### language
 
-English, Danish
+English
