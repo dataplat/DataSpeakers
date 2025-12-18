@@ -1,10 +1,10 @@
 ### fullname
 
-Swathi Priya Mannepalli
+Tom Overton
 
 ### topics
 
-Microsoft Fabric, SQL Databases, Lakehouse, Medallion Architecture, Fabric and AI, Microsoft Fabric Copilot Features, Microsoft Fabric CI/CD Best Practices, Power BI
+Azure Data Platform, Microsoft Fabric, Power BI, SQL Server, Integration
 
 ### regions
 
@@ -12,7 +12,7 @@ Virtual, North America
 
 ### Sessionize
 
-https://sessionize.com/swathi-priya-mannepalli
+https://sessionize.com/tom-overton/
 
 ### language
 
