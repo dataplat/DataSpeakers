@@ -1,19 +1,19 @@
 ### fullname
 
-Tom Overton
+Estera Kot, PhD
 
 ### topics
 
-Azure Data Platform, Microsoft Fabric, Power BI, SQL Server, Integration
+Azure, Fabric, Databricks, Data, Apache Spark, Big Data, Synapse, Data Engineering, Data Architecture, AI, Deep Learning, Machine Learning, Healthcare
 
 ### regions
 
-Virtual, North America
+Virtual, Europe, Middle East, North America
 
 ### Sessionize
 
-https://sessionize.com/tom-overton/
+https://sessionize.com/estera-kot/
 
 ### language
 
-English
+English, Polish
