@@ -1,19 +1,19 @@
 ### fullname
 
-Estera Kot, PhD
+Cathy Sarvis
 
 ### topics
 
-Azure, Fabric, Databricks, Data, Apache Spark, Big Data, Synapse, Data Engineering, Data Architecture, AI, Deep Learning, Machine Learning, Healthcare
+communication, presentation skills, public speaking, retention and burn out prevention,
 
 ### regions
 
-Virtual, Europe, Middle East, North America
+Europe, North America, Virtual, Africa, Oceania
 
 ### Sessionize
 
-https://sessionize.com/estera-kot/
+https://sessionize.com/dr-cathy-sarvis/
 
 ### language
 
-English, Polish
+English
