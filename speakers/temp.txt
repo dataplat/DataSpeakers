@@ -1,18 +1,18 @@
 ### fullname
 
-Cathy Sarvis
+Yingfan Xu
 
 ### topics
 
-communication, presentation skills, public speaking, retention and burn out prevention,
+Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Large Language Models, Speech Recognition, Programming, Pattern Recognition, Generative AI, Medical AI, AI in Healthcare
 
 ### regions
 
-Europe, North America, Virtual, Africa, Oceania
+Virtual, North America, Europe, South Asia, South East Asia, East Asia, Oceania
 
 ### Sessionize
 
-https://sessionize.com/dr-cathy-sarvis/
+https://sessionize.com/yingfan-xu/
 
 ### language
 
