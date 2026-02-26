@@ -1,18 +1,18 @@
 ### fullname
 
-Yingfan Xu
+Angel Ceballos
 
 ### topics
 
-Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Large Language Models, Speech Recognition, Programming, Pattern Recognition, Generative AI, Medical AI, AI in Healthcare
+Azure SQL, AI accountability, data governance, data lineage, bias detection and mitigation, AI risk management, compliance automation, responsible AI, AI transparency, AI explainability, regulatory compliance for AI, data architecture, data integrity, AI ethics implementation, real-time monitoring systems, human-centered data strategy, enterprise AI governance, risk-based analytics design, system resilience engineering, AI system reliability, accountable data systems, regulatory-ready infrastructure, defensible AI deployment
 
 ### regions
 
-Virtual, North America, Europe, South Asia, South East Asia, East Asia, Oceania
+North America
 
 ### Sessionize
 
-https://sessionize.com/yingfan-xu/
+https://sessionize.com/ethitect/
 
 ### language
 
