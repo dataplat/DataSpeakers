@@ -140,6 +140,13 @@
     "language": "English, Portuguese"
   },
   {
+    "name": "Daniel Gabor Patkos",
+    "topics": "Data visualization principles and in practice best practices, Power BI, Power Query, CI/CD in Power BI, CI/CD in Fabric, dashboards, data analytics, GitHub Actions, Azure DevOps, storytelling, data modelling",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/daniel-patkos/",
+    "language": "English, Hungarian, Italian"
+  },
+  {
     "name": "David Klee",
     "topics": "Database administration, performance tuning, virtualization, IaaS, cloud migrations, high availability, disaster recovery",
     "regions": "Virtual",
