@@ -1,19 +1,19 @@
 ### fullname
 
-Angel Ceballos
+Daniel Gabor Patkos
 
 ### topics
 
-Azure SQL, AI accountability, data governance, data lineage, bias detection and mitigation, AI risk management, compliance automation, responsible AI, AI transparency, AI explainability, regulatory compliance for AI, data architecture, data integrity, AI ethics implementation, real-time monitoring systems, human-centered data strategy, enterprise AI governance, risk-based analytics design, system resilience engineering, AI system reliability, accountable data systems, regulatory-ready infrastructure, defensible AI deployment
+Data visualization principles and in practice best practices, Power BI, Power Query, CI/CD in Power BI, CI/CD in Fabric, dashboards, data analytics, GitHub Actions, Azure DevOps, storytelling, data modelling
 
 ### regions
 
-North America
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/ethitect/
+https://sessionize.com/daniel-patkos/
 
 ### language
 
-English
+English, Hungarian, Italian
