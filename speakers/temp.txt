@@ -1,19 +1,19 @@
 ### fullname
 
-Daniel Gabor Patkos
+Sajitha Sritharan
 
 ### topics
 
-Data visualization principles and in practice best practices, Power BI, Power Query, CI/CD in Power BI, CI/CD in Fabric, dashboards, data analytics, GitHub Actions, Azure DevOps, storytelling, data modelling
+Microsoft Fabric, Azure ,Data Warehouse, AI agents , Data Modelling
 
 ### regions
 
-Virtual, Europe
+Virtual, North America, South Asia
 
 ### Sessionize
 
-https://sessionize.com/daniel-patkos/
+https://sessionize.com/sajithasritharan
 
 ### language
 
-English, Hungarian, Italian
+English,Tamil
