@@ -1,19 +1,19 @@
 ### fullname
 
-Sajitha Sritharan
+Sonal Goyal
 
 ### topics
 
-Microsoft Fabric, Azure ,Data Warehouse, AI agents , Data Modelling
+Open Source Entity Resolution
 
 ### regions
 
-Virtual, North America, South Asia
+Virtual, Europe, South East Asia, North America
 
 ### Sessionize
 
-https://sessionize.com/sajithasritharan
+https://sessionize.com/sonal-goyal/
 
 ### language
 
-English,Tamil
+English
