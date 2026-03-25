@@ -644,6 +644,13 @@
     "language": "English,Tamil"
   },
   {
+    "name": "Sam Debruyn",
+    "topics": "Microsoft Fabric,dbt,data warehouse,security,delta lake,CI/CD,data quality,Apache Airflow,data pipelines,orchestration,GitHub Actions,Azure DevOps,private networking",
+    "regions": "Europe, Virtual, Middle East, Oceania, North America",
+    "sessionize": "https://sessionize.com/sam-debruyn",
+    "language": "English,Dutch"
+  },
+  {
     "name": "Sara Magdalena Goldberger",
     "topics": "privacy, data privacy, digital transformation, process development, governance, regulations, compliance, EU law, GDPR, AI regulation, regulatory compliance, governement innovation. smart cities, data compliance, privacy and data protection. ",
     "regions": "Virtual, Europe, Middle East, Africa, South Asia, South East Asia, East Asia, Oceania, North America, South America",
