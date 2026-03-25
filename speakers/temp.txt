@@ -1,19 +1,19 @@
 ### fullname
 
-Sonal Goyal
+Sam Debruyn
 
 ### topics
 
-Open Source Entity Resolution
+Microsoft Fabric,dbt,data warehouse,security,delta lake,CI/CD,data quality,Apache Airflow,data pipelines,orchestration,GitHub Actions,Azure DevOps,private networking
 
 ### regions
 
-Virtual, Europe, South East Asia, North America
+Europe, Virtual, Middle East, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/sonal-goyal/
+https://sessionize.com/sam-debruyn
 
 ### language
 
-English
+English,Dutch
