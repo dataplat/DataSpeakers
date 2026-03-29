@@ -1,19 +1,19 @@
 ### fullname
 
-Sam Debruyn
+Vladimir Afanasev
 
 ### topics
 
-Microsoft Fabric,dbt,data warehouse,security,delta lake,CI/CD,data quality,Apache Airflow,data pipelines,orchestration,GitHub Actions,Azure DevOps,private networking
+SQL Server, Performance tuning, Internals, DB storytelling
 
 ### regions
 
-Europe, Virtual, Middle East, Oceania, North America
+Europe, North America, Middle East, Virtual, Africa, South Asia, South East Asia, East Asia, Oceania, South America
 
 ### Sessionize
 
-https://sessionize.com/sam-debruyn
+https://sessionize.com/vladimir-afanasev/
 
 ### language
 
-English,Dutch
+English
