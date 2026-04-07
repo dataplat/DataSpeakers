@@ -1,18 +1,18 @@
 ### fullname
 
-Madiha Shakil Mirza
+Phil Seamark
 
 ### topics
 
-Artificial Intelligence, Natural Language Processing (NLP), Natural Language Understanding (NLU), Machine Learning, Deep Learning, Large Language Models (LLMs), Generative AI, Agentic AI, AI Agents, MLOps, Responsible AI, AI Ethics, AI Explainability, Azure ML, Azure AI Foundry, Azure Data Engineer, Databricks, Snowflake, Power BI, Human-Centered AI, Bias Detection and Mitigation, Data Analytics, Data Science, Python, SQL
+DAX, Semantic Modelling, Direct Lake, OLAP, Optimising Power BI
 
 ### regions
 
-North America
+Virtual, Europe, South Asia, South East Asia, East Asia, Oceania, North America
 
 ### Sessionize
 
-https://sessionize.com/madiha-shakil-mirza
+https://sessionize.com/philip-seamark
 
 ### language
 
