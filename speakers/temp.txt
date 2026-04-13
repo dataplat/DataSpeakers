@@ -1,18 +1,18 @@
 ### fullname
 
-Phil Seamark
+Iurii Iurchenko
 
 ### topics
 
-DAX, Semantic Modelling, Direct Lake, OLAP, Optimising Power BI
+Microsoft Fabric, Apache Spark Advanced, Fabric for Beginners, Data Analytics in Fabric, AI in Fabric, Capacity Management in Fabric
 
 ### regions
 
-Virtual, Europe, South Asia, South East Asia, East Asia, Oceania, North America
+Virtual
 
 ### Sessionize
 
-https://sessionize.com/philip-seamark
+https://sessionize.com/4iurchenko/
 
 ### language
 
