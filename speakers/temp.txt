@@ -1,19 +1,19 @@
 ### fullname
 
-Iurii Iurchenko
+Kristian Johannesen
 
 ### topics
 
-Microsoft Fabric, Apache Spark Advanced, Fabric for Beginners, Data Analytics in Fabric, AI in Fabric, Capacity Management in Fabric
+Databricks, Data Engineering, Spark, Data Governance
 
 ### regions
 
-Virtual
+Europe, Virtual
 
 ### Sessionize
 
-https://sessionize.com/4iurchenko/
+https://sessionize.com/KristianJohannesen/
 
 ### language
 
-English
+English, Danish
