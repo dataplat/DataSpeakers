@@ -1,19 +1,19 @@
 ### fullname
 
-Kristian Johannesen
+Abhi Jayanty
 
 ### topics
 
-Databricks, Data Engineering, Spark, Data Governance
+Microsoft Fabric, Real-Time Intelligence, Kusto, KQL, Data Analytics, Streaming, Log Analytics
 
 ### regions
 
-Europe, Virtual
+Europe, North America, South America, South Asia
 
 ### Sessionize
 
-https://sessionize.com/KristianJohannesen/
+https://sessionize.com/abhi-jayanty/
 
 ### language
 
-English, Danish
+English
