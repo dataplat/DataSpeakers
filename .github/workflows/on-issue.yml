@@ -9,13 +9,13 @@ jobs:
   addNewSpeaker:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v7
       with:
         fetch-depth: 0
         ref: main
         token: ${{ secrets.REPO_TOKEN }}
     - name: Add comment to the issue
-      uses: peter-evans/create-or-update-comment@v2
+      uses: peter-evans/create-or-update-comment@v5
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
@@ -49,13 +49,13 @@ jobs:
         $speakerFileName | OUt-File ./speakers/list.txt -Append
       shell: pwsh  
     - name: Add another comment to the issue
-      uses: peter-evans/create-or-update-comment@v2
+      uses: peter-evans/create-or-update-comment@v5
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
           The Speaker Json has been added https://github.com/dataplat/DataSpeakers/tree/main/speakers
     - name: Add & Commit
-      uses: EndBug/add-and-commit@v9.1.1
+      uses: EndBug/add-and-commit@v11
       with:
         author_name: Beardy McBeardFace
         author_email: mrrobsewell@outlook.com
@@ -73,7 +73,7 @@ jobs:
      runs-on: ubuntu-latest
      steps:
      - name: Close Issue
-       uses: peter-evans/close-issue@v2
+       uses: peter-evans/close-issue@v3
        with:
          issue-number: ${{ github.event.issue.number }}
          comment: |
