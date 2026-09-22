@@ -371,6 +371,13 @@
     "language": "English"
   },
   {
+    "name": "João Barros",
+    "topics": "Microsoft Fabric, Power BI, DAX, SQL Server, T-SQL, AI Assisted Development, Azure Data Platform, Data Modeling",
+    "regions": "Virtual, Europe, North America, South America",
+    "sessionize": "https://sessionize.com/joaobarros/",
+    "language": "English, Spanish, Portuguese"
+  },
+  {
     "name": "Johan Ludvig Brattås",
     "topics": "IoT, Cloud Infrastructure, Data Architecture, Synapse, Power BI, Databricks, Lakehouse, Data Warehousing",
     "regions": "Virtual, Europe, North America",
