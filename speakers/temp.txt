@@ -1,19 +1,19 @@
 ### fullname
 
-João Barros
+Branden Millward
 
 ### topics
 
-Microsoft Fabric, Power BI, DAX, SQL Server, T-SQL, AI Assisted Development, Azure Data Platform, Data Modeling
+AI, Explainable AI, Agent Development, Agentic Systems, Data Science, Machine Learning
 
 ### regions
 
-Virtual, Europe, North America, South America
+Virtual, Europe, North America
 
 ### Sessionize
 
-https://sessionize.com/joaobarros/
+https://sessionize.com/BrandenMillward/
 
 ### language
 
-English, Spanish, Portuguese
+English
