@@ -1,19 +1,19 @@
 ### fullname
 
-Abhi Jayanty
+João Barros
 
 ### topics
 
-Microsoft Fabric, Real-Time Intelligence, Kusto, KQL, Data Analytics, Streaming, Log Analytics
+Microsoft Fabric, Power BI, DAX, SQL Server, T-SQL, AI Assisted Development, Azure Data Platform, Data Modeling
 
 ### regions
 
-Europe, North America, South America, South Asia
+Virtual, Europe, North America, South America
 
 ### Sessionize
 
-https://sessionize.com/abhi-jayanty/
+https://sessionize.com/joaobarros/
 
 ### language
 
-English
+English, Spanish, Portuguese
