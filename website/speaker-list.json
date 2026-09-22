@@ -84,6 +84,13 @@
     "language": "English"
   },
   {
+    "name": "Branden Millward",
+    "topics": "AI, Explainable AI, Agent Development, Agentic Systems, Data Science, Machine Learning",
+    "regions": "Virtual, Europe, North America",
+    "sessionize": "https://sessionize.com/BrandenMillward/",
+    "language": "English"
+  },
+  {
     "name": "Brent Ozar",
     "topics": "Performance Tuning, Database Administration",
     "regions": "Europe, North America",
@@ -257,6 +264,13 @@
     "regions": "Europe, North America",
     "sessionize": "https://sessionize.com/FrankGeisler",
     "language": "English, German"
+  },
+  {
+    "name": "Geir Engesland Alstad",
+    "topics": "Azure, PySpark, applied SQL, Data Architecture, Data Pipelines, Databricks, IaC",
+    "regions": "Europe, Virtual",
+    "sessionize": "https://sessionize.com/geir-alstad/",
+    "language": "English"
   },
   {
     "name": "Glenn Berry",
@@ -817,6 +831,13 @@
     "regions": "Europe, North America, Middle East, Virtual, Africa, South Asia, South East Asia, East Asia, Oceania, South America",
     "sessionize": "https://sessionize.com/vladimir-afanasev/",
     "language": "English"
+  },
+  {
+    "name": "Vojtěch Šíma",
+    "topics": "Power BI, Power Query, Data Engineering, Microsoft Fabric, Data Analytics, Governance, Fabric Cost Optimization",
+    "regions": "Virtual, Europe",
+    "sessionize": "https://sessionize.com/vojtech-sima",
+    "language": "English, Czech"
   },
   {
     "name": "Wolfgang Strasser",
