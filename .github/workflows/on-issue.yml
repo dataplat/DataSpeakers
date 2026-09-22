@@ -4,7 +4,7 @@ on:
  issues:
    types:
      - "opened"
-
+     - "reopened"
 jobs:
   addNewSpeaker:
     runs-on: ubuntu-latest
@@ -24,10 +24,12 @@ jobs:
           The Action should be running now and adding it to the webpage. It should should update here.
           If it doesnt - get in touch with Rob on Twittter https://twitter.com/sqldbawithbeard
     - name: Get Speaker Information to file
+      env:
+        ISSUE_BODY: ${{ github.event.issue.body }}
       run: |
         Write-Host "What do we have?"
         # gci -recurse = this is for troubleshooting because paths are hard
-        $IssueBody =  "${{ github.event.issue.body }}"
+        $IssueBody = $env:ISSUE_BODY
         # Write-Host $IssueBody 
         $IssueBody | Out-File speakers/temp.txt
         # get the temp file contents - I do this so I dont lose anything
