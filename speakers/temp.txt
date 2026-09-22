@@ -1,19 +1,19 @@
 ### fullname
 
-Geir Engesland Alstad
+Vojtěch Šíma
 
 ### topics
 
-Azure, PySpark, applied SQL, Data Architecture, Data Pipelines, Databricks, IaC
+Power BI, Power Query, Data Engineering, Microsoft Fabric, Data Analytics, Governance, Fabric Cost Optimization
 
 ### regions
 
-Europe, Virtual
+Virtual, Europe
 
 ### Sessionize
 
-https://sessionize.com/geir-alstad/
+https://sessionize.com/vojtech-sima
 
 ### language
 
-English
+English, Czech
