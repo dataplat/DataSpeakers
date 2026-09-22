@@ -1,18 +1,18 @@
 ### fullname
 
-Branden Millward
+Geir Engesland Alstad
 
 ### topics
 
-AI, Explainable AI, Agent Development, Agentic Systems, Data Science, Machine Learning
+Azure, PySpark, applied SQL, Data Architecture, Data Pipelines, Databricks, IaC
 
 ### regions
 
-Virtual, Europe, North America
+Europe, Virtual
 
 ### Sessionize
 
-https://sessionize.com/BrandenMillward/
+https://sessionize.com/geir-alstad/
 
 ### language
 
