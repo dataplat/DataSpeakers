@@ -1,19 +1,19 @@
 ### fullname
 
-Vojtěch Šíma
+Danny de Haan
 
 ### topics
 
-Power BI, Power Query, Data Engineering, Microsoft Fabric, Data Analytics, Governance, Fabric Cost Optimization
+Database Administration, Security & Infrastructure
 
 ### regions
 
-Virtual, Europe
+Europe, Virtual
 
 ### Sessionize
 
-https://sessionize.com/vojtech-sima
+https://sessionize.com/dannydehaan
 
 ### language
 
-English, Czech
+English, Dutch
