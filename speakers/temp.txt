@@ -1,10 +1,10 @@
 ### fullname
 
-Danny de Haan
+Nadine Raiss
 
 ### topics
 
-Database Administration, Security & Infrastructure
+Data, AI, Microsoft Fabric, SQL, DevOps, Cloud Infrastructure, Security, Azure
 
 ### regions
 
@@ -12,8 +12,8 @@ Europe, Virtual
 
 ### Sessionize
 
-https://sessionize.com/dannydehaan
+https://sessionize.com/nadine-raiss/
 
 ### language
 
-English, Dutch
+English, French
